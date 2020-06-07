@@ -21,7 +21,7 @@ weight: 1
             padding: 10px 20px;
             font-size: 20px;
             border-radius: 10px;
-            width:100%;
+            width:75%;
         }
         .btn-discord {
             color: #2C2F33;
