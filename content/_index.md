@@ -1,6 +1,7 @@
 ---
 title: home
 weight: 1
+
 ---
 <html>
 
@@ -19,9 +20,9 @@ weight: 1
         } 
         .btn-xl {
             padding: 10px 20px;
-            font-size: 20px;
+            font-size: 25px;
             border-radius: 10px;
-            width:75%;
+            width:100%;
         }
         .btn-discord {
             color: #2C2F33;
@@ -119,3 +120,10 @@ weight: 1
   
 </html> 
 
+
+
+
+## ACM Mission Statement:
+> The student chapter of an international organization focused on advancing the education and research in the field of Computer Science.
+
+>Join the premiere organization in computing to gain leadership experience, participate in SIG projects, network with other developers, professionals and start building your resume.
