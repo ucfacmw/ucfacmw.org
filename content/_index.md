@@ -52,18 +52,18 @@ weight: 1
             background-color: #FFDC80;
         }
         .btn-twitter {
-            color: #2C2F33;
-            background-color: #7289DA;
-            border-color: #7289DA;
+            color: #FFFFFF;
+            background-color: #1DA1F2;
+            border-color: #1DA1F2;
         }
         .btn-twitter:hover {
             color: #99AAB5;
             background-color: #2C2F33;
         }
         .btn-reddit {
-            color: #2C2F33;
-            background-color: #7289DA;
-            border-color: #7289DA;
+            color: #FFFFFF;
+            background-color: #FF4500;
+            border-color: #FF4500;
         }
         .btn-reddit:hover {
             color: #99AAB5;
@@ -86,25 +86,29 @@ weight: 1
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://ucfacmw.org/img/headers/Discord-Slider.png" class="d-block w-100">
-        <div class="position-absolute mid-right">
-            <a class="btn btn-discord btn-xl" href="http://bit.ly/ACMW-discord" role="button">
-            <i class="fab fa-discord" style="padding-right: 5px;"></i>  CHAT WITH US</a>
-        </div> 
+    <a href="http://bit.ly/ACMW-discord" role="button">
+      <img src="https://ucfacmw.org/img/headers/Discord-Slider.png" class="d-block w-100"></img>
+    </a>
     </div>
     <div class="carousel-item">
-      <img src="https://ucfacmw.org/img/headers/Facebook-Slider.PNG" class="d-block w-100">
-      <div class="position-absolute mid-right">
-            <a class="btn btn-facebook btn-xl" href="https://www.facebook.com/ucfacmw/" role="button">
-            <i class="far fa-thumbs-up" style="padding-right: 5px;"></i>  LIKE US</a>
-        </div> 
+    <a href="https://www.facebook.com/ucfacmw/" role="button">
+      <img src="https://ucfacmw.org/img/headers/Facebook-Slider.PNG" class="d-block w-100"></img>
+    </a>
     </div>
     <div class="carousel-item">
-      <img src="https://ucfacmw.org/img/headers/Instagram-Slider.PNG" class="d-block w-100">
-      <div class="position-absolute mid-right">
-            <a class="btn btn-instagram btn-xl" href="https://www.instagram.com/ucfacmw" role="button">
-            <i class="fab fa-instagram" style="padding-right: 5px;"></i>  FOLLOW US</a>
-        </div> 
+    <a href="https://www.instagram.com/ucfacmw" role="button">
+      <img src="https://ucfacmw.org/img/headers/Instagram-Slider.PNG" class="d-block w-100"></img>
+    </a>
+    </div>
+    <div class="carousel-item">
+    <a href="https://twitter.com/ucfacmw" role="button">
+      <img src="https://ucfacmw.org/img/headers/Twitter-Slider.png" class="d-block w-100"></img>
+    </a>
+    </div>
+    <div class="carousel-item">
+    <a href="https://www.reddit.com/user/ucfacmw" role="button">
+      <img src="https://ucfacmw.org/img/headers/Reddit-Slider.png" class="d-block w-100"></img>
+    </a>
     </div>
   </div>
   <a class="carousel-control-prev" href="#social-media" role="button" data-slide="prev">
