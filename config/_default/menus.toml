@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "https://ucfacmw.org/"
+  url = "/"
   weight = 10
 
 # [[main]]
