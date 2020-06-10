@@ -4,13 +4,13 @@ name = "acmw"
 light = false
 
 # Primary
-primary = "#00539CFF"
+primary = "#76528BFF"
 # secondary = "#C13584"
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"
-menu_text = "#00539CFF"
-menu_text_active = "#FFD662FF"
+menu_text = "#76528BFF"
+menu_text_active = "#CBCE91FF"
 menu_title = "#fff"
 
 # Home sections
