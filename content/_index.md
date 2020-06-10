@@ -13,7 +13,7 @@ weight: 1
       </div>
     </div>
     <div class="row" id="landing-page">
-      <div class="col" id="landing-text" class="text-right">
+      <div id="landing-text" class="text-left">
         <h2>
           ACM:
         </h2>
@@ -24,7 +24,7 @@ weight: 1
           Join the premiere organization in computing to gain leadership experience, participate in SIG projects, network with other developers, professionals and start building your resume.
         </h4>
       </div>
-      <div class="col" id="landing-text" class="text-right">
+      <div id="landing-text" class="text-left">
         <h2>
             ACM-W:
         </h2>
