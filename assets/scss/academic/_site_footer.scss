@@ -14,6 +14,13 @@ footer.site-footer {
             margin: 0;
         }
     }
+
+    div#mc_embed_signup {
+        clear: left; 
+        font-size: 16px;
+        width: 100%;
+        color: #fff;
+    }
 }
 
 body.acmw-home, body[class*="dark"] {

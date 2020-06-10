@@ -1,34 +1,55 @@
 <footer class="site-footer">
   <a href="https://www.netlify.com">
-    <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg"/>
+    <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" />
     <!-- <img src="https://www.netlify.com/img/global/badges/netlify-color-bg.svg"/> -->
   </a>
 
   <div id="site-footer-terms-policy-cite">
-  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
-  <p class="powered-by">
-    {{ with site.GetPage "privacy.md" }}
+    {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+    <p class="powered-by">
+      {{ with site.GetPage "privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
-    {{ with site.GetPage "terms.md" }}
+      {{ end }}
+      {{ with site.GetPage "terms.md" }}
       {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+      {{ end }}
+    </p>
     {{ end }}
-  </p>
-  {{ end }}
 
-  <p class="powered-by">
-    {{ with site.Copyright }}
+
+    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+    <div class="container-lg" id="mc_embed_signup">
+      <form action="https://twitter.us17.list-manage.com/subscribe/post?u=0abd48373342e252edfcaf177&amp;id=5230c89acb"
+        method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
+        novalidate>
+        <div id="mc_embed_signup_scroll">
+          <label for="mce-EMAIL">Subscribe to ACM &amp; ACM-W Newsletter</label>
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_0abd48373342e252edfcaf177_5230c89acb" tabindex="-1" value="">
+          </div>
+          <div class="clear">
+            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <!--End mc_embed_signup-->
+    <p class="powered-by">
+      {{ with site.Copyright }}
       {{ ":copyright:" | emojify }}
       {{ replace . "{year}" now.Year | markdownify }}
       &middot;
-    {{ end }}
+      {{ end }}
 
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-  </p>
-</div>
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+    </p>
+  </div>
 
   <div id="site-footer-to-top">
     {{ if not (in (slice "docs" "updates") .Type) }}
@@ -41,5 +62,4 @@
     </span>
     {{ end }}
   </div>
-
 </footer>
