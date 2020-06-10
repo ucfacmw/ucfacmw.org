@@ -1,7 +1,5 @@
 ---
 title: home
-weight: 1
-
 ---
 <html>
 <main id="home">

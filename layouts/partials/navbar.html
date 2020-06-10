@@ -10,13 +10,17 @@
   id="navbar-main">
   <div class="container">
 
-    {{- if not .IsHome -}}
+    {{if $show_logo}}
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"></img>
+        {{- if $has_logo -}}
+          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
+        {{- else -}}
+          {{- site.Title -}}
+        {{- end -}}
       </a>
     </div>
-    {{- end -}}
+    {{end}}
 
     {{ if site.Menus.main }}
     <button type="button" class="navbar-toggler" data-toggle="collapse"
@@ -79,7 +83,7 @@
         {{/* Get active page. */}}
         {{ $is_link_in_current_path := in $current_page.RelPermalink .URL }}
         {{ $is_widget_page := or $current_page.IsHome (eq $current_page.Type "widget_page") }}
-        {{ $hash := findRE "#(.+)" .URL }}
+        {{ $hash := findRE "/" .URL }}
         {{ $is_same_page := $is_link_in_current_path }}
         {{ if gt (len $hash) 0 }}
         {{ $hash = index $hash 0 }}

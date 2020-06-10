@@ -54,3 +54,8 @@
   from = "/reddit"
   to = "https://www.reddit.com/user/ucfacmw"
   status = 301
+
+[[ redirects ]]
+  from = "/home"
+  to = "https://ucfacmw.org"
+  status = 301
