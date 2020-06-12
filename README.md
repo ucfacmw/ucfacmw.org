@@ -8,7 +8,7 @@
 The **ACM & ACM-W** site uses [hugo-academic](https://sourcethemes.com/academic). To get started, you'll want to clone the repo, using either:
 
 **1.**  `git clone git@github.com:ucfacmw/site` (recommended)
-     (a) Once you've cloned, make sure you run  `git submodule update --init --recursive` from the root directory of the repository.
+1. **(a)** Once you've cloned, make sure you run  `git submodule update --init --recursive` from the root directory of the repository.
 
 **2.**  [GitHub Desktop](https://desktop.github.com/) (only on MacOS and Windows) 
 
@@ -42,7 +42,7 @@ Here are some **more resources**, since this *advice is based on mainly using Ma
 
 ## Spinning up the site (hugo-academic): 
 
-(*Make sure you follow the NOTE above. Also, all commands here work on all OSes.*)
+(*Make sure you follow the **NOTE** above. Also, **all commands here work on all OSes**.*)
 
 You'll use `docker-compose` to launch the website. Make sure you're in the website repository's root directory.  (*To check, in your shell run `pwd` and you should see* `/path/to/site`.) All of these commands must be run from the root of the site.
 
