@@ -55,6 +55,29 @@ Feel free to inspect the `docker-compose.yml` and ask away. Once you've started 
 
 Then [personalize the site](https://sourcethemes.com/academic/docs/get-started/)!
 
+## More resources for editing the website
+
+Here you'll be able to get help with [Hugo Documentation](https://gohugo.io/documentation/).
+
+Here you'll be able to find help with [Netlify](https://docs.netlify.com/). If you're an **officer** in our club and would like access to the account, please **contact the current president**.
+
+If you're messing around with the HTML/CSS and what not (*e.g. the buttons, containers, etc...*) and need want some help, here's the [Bootstrap Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/ ).
+
+Here's a playlist with [tutorials](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3) for using Hugo and Bootstrap together.
+
+Here's a list of forums, chats, or support pages we like to use if we need more answers:
+- [Hugo Forum](https://discourse.gohugo.io/)
+- [Academic Community Chat](https://spectrum.chat/academic?tab=posts)
+- [Academic Support](https://github.com/gcushen/hugo-academic/blob/master/.github/support.md)
+- [Stack Exchange](https://stackexchange.com/)
+    - Mostly [Stack Overflow](https://stackoverflow.com/)
+- [w3schools](https://www.w3schools.com/bootstrap4/) for more help with Boostrap
+    - [Boostrap Forum](https://www.twitterbootstrap.net/forum/)
+
+If you have any **questions or concerns**, please free to **contact us**:
+- [Contact Form](https://ucfacmw.org/contact/)
+- [Discord](https://ucfacmw.org/discord) –– ping anyone with the **@Officers** role
+- [E-mail](mailto:ucfacmw@gmail.com)
 <br>
 <br>
 
