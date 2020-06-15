@@ -23,15 +23,15 @@ organizations:
 bio: 
 
 # Add more/change interests if you'd like
-interests:
-- 
+# interests:
+
 
 
 # Replace with proper information
 education:
   courses:
   - course: Ed.D. Higher Education/ Higher Education Administration
-    institution: Stanford University
+    institution: University of Central Florida
     year: 2009
   - course: Master of Business Administration
     institution: East Tennessee State University
@@ -93,3 +93,10 @@ user_groups:
 # Add your biography below the ---
 ---
 
+My research interests include:
+- Areas of student sense of community
+- First-Year Experience
+- Living-Learning Communities
+- Career readiness
+- Mentoring
+- Persistence to graduation for students in STEM programs

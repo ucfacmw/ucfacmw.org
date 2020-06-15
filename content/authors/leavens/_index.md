@@ -23,8 +23,8 @@ organizations:
 bio: 
 
 # Add more/change interests if you'd like
-interests:
-- 
+# interests:
+# - 
 
 
 # Replace with proper information
@@ -93,3 +93,5 @@ user_groups:
 # Add your biography below the ---
 ---
 
+My interests include, but are certainly not limited to:
+- Formal methods (specification and verification) especially for object-oriented programs
