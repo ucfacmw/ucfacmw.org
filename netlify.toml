@@ -59,3 +59,8 @@
   from = "/home"
   to = "https://ucfacmw.org"
   status = 301
+
+[[ redirects ]]
+  from = "/sponsorship-presentation"
+  to = "https://www.canva.com/design/DAD-6L-_IC4/BL1z3qGoBpRRmsolSuTmZA/view?website#2"
+  status = 301
