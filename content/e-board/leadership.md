@@ -3,7 +3,7 @@ widget = "people"  # Use the People widget
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-
+title = "Meet the Team"
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
