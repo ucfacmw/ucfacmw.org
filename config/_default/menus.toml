@@ -5,8 +5,33 @@
 
 [[main]]
   name = "Home"
+  identifier = "home"
+  weight = 10
+  hasChildren = true
+
+[[ main ]]
+  name = "Welcome"
+  parent = "home"
   url = "/"
   weight = 10
+
+[[ main ]]
+  name = "About Us"
+  parent = "home"
+  url = "/mission/"
+  weight = 20
+
+[[ main ]]
+  name = "Social Media"
+  parent = "home"
+  url = "/social-media/"
+  weight = 40
+
+[[ main ]]
+  name = "Committees"
+  parent = "home"
+  url = "/committees/"
+  weight = 30
 
 # [[main]]
 #   name = "Posts"
@@ -33,7 +58,7 @@
 #   weight = 25
 
 [[main]]
-  name = "E-Board"
+  name = "Team"
   url = "/e-board"
   weight = 30
 
