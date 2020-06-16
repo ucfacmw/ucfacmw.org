@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gary Leavens
+title: Dr. Gary Leavens
 weight: 3
 
 # Username (this should match the folder name)

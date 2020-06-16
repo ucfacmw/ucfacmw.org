@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Melissa Dagley
+title: Dr. Melissa Dagley
 weight: 2
 
 # Username (this should match the folder name)

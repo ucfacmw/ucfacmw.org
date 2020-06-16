@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LeeAnn Roberts
+title: Dr. LeeAnn Roberts
 weight: 1
 
 # Username (this should match the folder name)
@@ -16,22 +16,23 @@ role: ACM-W Advisor
 # Organizations/Affiliations
 organizations:
 - name: Adjunct Professor, Interim Director of Diversity & Inclusion - CECS
-  url: https://www.ucf.edu/
+  url: https://diversity.cecs.ucf.edu/
 - name: University of Central Florida
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Add more/change interests if you'd like
-interests:
-- 
+# interests:
+# - 
 
 
 # Replace with proper information
 education:
   courses:
   - course: Ed.D. Educational Leadership
-    institution: Stanford University
+    institution: University of Central Florida
     year: 2016
   - course: Graduate Certificate, Emergency Management & Homeland Security
     institution: University of Central Florida
@@ -70,9 +71,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:leeann.roberts@ucf.edu'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dr-leeann-roberts-31421aa6/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -96,3 +97,11 @@ user_groups:
 # Add your biography below the ---
 ---
 
+My interests include: 
+- Social Justice & Advocacy
+- Major & Career Exploration
+- Advancing Women in STEM
+- First-Year Experience of College Students
+- Advising, Mentoring & Coaching in Academia
+- Diversity, Equity & Inclusion in Higher Education
+- Recruitment & Persistence of Underrepresented Groups in STEM
