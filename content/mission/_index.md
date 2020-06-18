@@ -49,3 +49,4 @@ title: About Us
 </main>
 </html>
 
+{{< testimonies >}}
