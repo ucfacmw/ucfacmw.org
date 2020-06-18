@@ -22,14 +22,14 @@ organizations:
 bio: 
 
 interests:
-- 
+# - 
 
 # Replace with proper information
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  # courses:
+  # - course: PhD in Artificial Intelligence
+  #   institution: Stanford University
+  #   year: 2012
 
 
 # Social/Academic Networking
