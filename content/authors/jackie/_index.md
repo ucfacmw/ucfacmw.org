@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jackie Law
+title: Jacquelyn Law
 
 # Username (this should match the folder name)
 authors:
@@ -19,19 +19,20 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hello! I was a former member and sponsorship director of UCF's ACM-W. I graduated from UCF in December 2019 and am currently working as a software developer.
 
 # Add more/change interests if you'd like
 interests:
-# - 
+- Web Development
+- UX/UI
 
 
 # Replace with proper information
 education:
-  # courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  courses:
+  - course: BS in Computer Science
+    institution: University of Central Florida
+    year: 2019
 
 
 # Social/Academic Networking
@@ -54,18 +55,12 @@ education:
 
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: ''  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jacquelynlaw
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jacquelyn-law/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,7 +68,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -82,4 +77,4 @@ user_groups:
 
 # Add your biography below the ---
 ---
-
+Hello! I was a former member and sponsorship director of UCF's ACM-W. I graduated from UCF in December 2019 and am currently working as a software developer. I was a member of ACM-W at its founding so while I may not be a student anymore, feel free to reach out to me via LinkedIn if you ever have any questions! I'm always happy to connect with others in the UCF community.
