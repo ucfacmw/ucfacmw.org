@@ -18,7 +18,7 @@ role:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Welcome to the ACM & ACM-W Student Chapters at UCF!
 
 interests:
 
@@ -65,5 +65,4 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 
 ---
-##  Welcome to
 
