@@ -66,6 +66,11 @@
 #   name = "SIGs"
 #   url = "#sig"
 #   weight = 40
+[[main]]
+  name = "Online Store"
+  url = "https://ucfacmw.org/online-store"
+  weight = 50
+
 
 [[main]]
   name = "Contact"
