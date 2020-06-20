@@ -29,9 +29,9 @@ interests:
 # Replace with proper information
 education:
   # courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  # - course: BS in Computer Science
+  #   institution: University of Central Florida
+  #   year: 2020
 
 
 # Social/Academic Networking
@@ -83,4 +83,4 @@ user_groups:
 
 # Add your biography below the ---
 ---
-
+Hello! I'm Annabel, the Vice President for ACM and ACM-W. Last year I was the Outreach Director for the club, and got to host an event with the nonprofit Coder Chicks for local girls to learn about app development and cybersecurity. I'm also the Webmaster for Habitat for Humanity at UCF.
