@@ -4,6 +4,8 @@ headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Meet the Team"
+
+
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
@@ -28,8 +30,9 @@ title = "Meet the Team"
   # color = "navy"
   
   # Background gradient.
-  #gradient_start = "hsla(231, 15%, 16%, 1)"
-  #gradient_end = "#340069"
+    gradient_start = "#013d52"
+    gradient_end = "#5a2f55"
+
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
