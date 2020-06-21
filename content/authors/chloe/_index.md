@@ -71,6 +71,6 @@ user_groups:
 # Add your biography below the ---
 ---
 
-Hey there! :waving_hand: I'm Chloë and I'm currently the President for ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/). Last year, I was the Secretary and the Mentorship Director for ACM-W. :relaxed:
+Hey there! :waving_hand: I'm Chloë and I'm currently the President for ACM-W at the [University of Central Florida](https://www.ucf.edu/). Last year, I was the Secretary and the Mentorship Director for ACM-W. :relaxed:
 
 (TODO: add more content later)
