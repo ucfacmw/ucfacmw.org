@@ -14,7 +14,7 @@ role: Vice President --- Outreach Director (2019-2020)
 
 # Organizations/Affiliations
 organizations:
-- name: ACM & ACM-W
+- name: ACM-W
   url: https://ucfacmw.org
 - name: University of Central Florida
 
@@ -83,4 +83,4 @@ user_groups:
 
 # Add your biography below the ---
 ---
-Hello! I'm Annabel, the Vice President for ACM and ACM-W. Last year I was the Outreach Director for the club, and got to host an event with the nonprofit Coder Chicks for local girls to learn about app development and cybersecurity. I'm also the Webmaster for Habitat for Humanity at UCF.
+Hello! I'm Annabel, the Vice President for ACM-W. Last year I was the Outreach Director for the club, and got to host an event with the nonprofit Coder Chicks for local girls to learn about app development and cybersecurity. I'm also the Webmaster for Habitat for Humanity at UCF.

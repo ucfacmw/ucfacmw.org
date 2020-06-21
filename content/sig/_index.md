@@ -3,12 +3,12 @@ title: ACM & ACM-W SIGs
 
 type: docs
 
-menu:
-  main:
-    name: SIG
-    weight: 40
-  sig:
-    name: ACM & ACM-W SIGs
+# menu:
+#   main:
+#     name: SIG
+#     weight: 40
+#   sig:
+#     name: ACM & ACM-W SIGs
 ---
 
 {{< alert >}}

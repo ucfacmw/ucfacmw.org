@@ -14,7 +14,7 @@ role: Events Director
 
 # Organizations/Affiliations
 organizations:
-- name: ACM & ACM-W
+- name: ACM-W
   url: https://ucfacmw.org
 - name: University of Central Florida
 

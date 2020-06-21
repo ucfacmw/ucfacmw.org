@@ -6,23 +6,12 @@ title: home
     <div class="row" id="mission-statement">
       <div id="mission-banner" class="text-center">
         <h1>
-          Mission Statements
+          Mission Statement
         </h1>
       </div>
       <br>
       <br>
       <div id="mission-text" class="text-left">
-        <h2>
-          ACM:
-        </h2>
-        <h4>
-          The student chapter of an international organization focused on advancing the education and research in the field of Computer Science.
-        </h4>
-        <h4>
-          Join the premiere organization in computing to gain leadership experience, participate in SIG projects, network with other developers, professionals and start building your resume.
-        </h4>
-        <br>
-        <br>
         <h2>
             ACM-W:
         </h2>

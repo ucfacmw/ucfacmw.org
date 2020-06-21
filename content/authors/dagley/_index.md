@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ACM Advisor
+role: ACM-W Advisor
 
 # Organizations/Affiliations
 organizations:

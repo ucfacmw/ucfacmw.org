@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ACM & ACM-W
+title: ACM-W
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ role:
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Welcome to the ACM & ACM-W Student Chapters at UCF!
+bio: Welcome to the ACM-W Student Chapters at UCF!
 
 interests:
 

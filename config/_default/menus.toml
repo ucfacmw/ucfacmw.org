@@ -21,17 +21,17 @@
   url = "/mission/"
   weight = 20
 
-[[ main ]]
-  name = "Social Media"
-  parent = "home"
-  url = "/social-media/"
-  weight = 40
+# [[ main ]]
+#   name = "Social Media"
+#   parent = "home"
+#   url = "/social-media/"
+#   weight = 40
 
-[[ main ]]
-  name = "Committees"
-  parent = "home"
-  url = "/committees/"
-  weight = 30
+# [[ main ]]
+#   name = "Committees"
+#   parent = "home"
+#   url = "/committees/"
+#   weight = 30
 
 # [[main]]
 #   name = "Posts"
@@ -66,10 +66,10 @@
 #   name = "SIGs"
 #   url = "#sig"
 #   weight = 40
-[[main]]
-  name = "Online Store"
-  url = "https://ucfacmw.org/online-store"
-  weight = 50
+# [[main]]
+#   name = "Online Store"
+#   url = "https://ucfacmw.org/online-store"
+#   weight = 50
 
 
 [[main]]
