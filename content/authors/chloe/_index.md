@@ -13,7 +13,7 @@ role: President --- Secretary & Mentorship Director (2019-2020)
 
 # Organizations/Affiliations
 organizations:
-- name: ACM & ACM-W
+- name: ACM-W
   url: https://ucfacmw.org
 - name: University of Central Florida
 
@@ -50,14 +50,14 @@ social:
   icon_pack: fab
   link: https://github.com/h3rmi0n3
 
-- icon: globe
-  icon_pack: fas
-  link: https://chloegeller.com/
+# - icon: globe
+#   icon_pack: fas
+#   link: https://chloegeller.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: file-pdf
-  icon_pack: fas
-  link: files/Chloe_Resume.pdf
+# - icon: file-pdf
+#   icon_pack: fas
+#   link: files/Chloe_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ucfacmw.president@gmail.com"
