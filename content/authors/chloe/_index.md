@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/h3rmi0n3
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/chloegeller/
 
 # - icon: globe
 #   icon_pack: fas
@@ -71,6 +74,10 @@ user_groups:
 # Add your biography below the ---
 ---
 
-Hey there! :waving_hand: I'm Chloë and I'm currently the President for ACM-W at the [University of Central Florida](https://www.ucf.edu/). Last year, I was the Secretary and the Mentorship Director for ACM-W. :relaxed:
+Hey there! :waving_hand: 
 
-(TODO: add more content later)
+I'm Chloë and I'm currently the President for ACM-W at [UCF](https://www.ucf.edu/). Last year, I was the Secretary and the Mentorship Director for ACM-W. :relaxed:
+
+I started off in ACM-W as a Mentee in my first semester at UCF. I've learned a lot through attending various ACM-W events.
+
+I hope I'm able to present ACM-W members with as many opportunities and more!
