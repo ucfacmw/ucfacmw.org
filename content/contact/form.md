@@ -14,9 +14,9 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 1
 
-[design.background]
+# [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -26,6 +26,6 @@ email_form = 2
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "hsla(231, 15%, 16%, 1)"
-  gradient_end = "#5a2f55"
+  # gradient_start = "hsla(231, 15%, 16%, 1)"
+  # gradient_end = "#5a2f55"
 +++
