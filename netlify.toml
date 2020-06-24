@@ -69,3 +69,9 @@
 #   from = "/online-store"
 #   to = "https://ucfacmw.square.site/"
 #   status = 301
+
+[[ redirects ]]
+  from = "/events"
+  to = "https://ucfacmwevents.typeform.com/to/MVrJKucA"
+  status = 301
+
