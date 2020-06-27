@@ -75,3 +75,12 @@
   to = "https://ucfacmwevents.typeform.com/to/MVrJKucA"
   status = 301
 
+[[ redirects ]]
+  from = "/funfact-game"
+  to = "https://jamboard.google.com/d/1DbQjQrXyO8O_a6OmE2GZAp68fKLKxUW1l2i6n26uvL8/edit?usp=sharing"
+  status = 301
+
+[[ redirects ]]
+  from = "/teampixel-game"
+  to = "https://docs.google.com/spreadsheets/d/1TLobPG42v-VNKdXo6pmJ6eBtI3i1LNj6hYQOCVIZTEw/edit?usp=sharing"
+  status = 301
