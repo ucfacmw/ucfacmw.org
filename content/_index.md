@@ -1,5 +1,5 @@
 ---
-title: home
+title: Home
 ---
 <html>
 <main id="home">
