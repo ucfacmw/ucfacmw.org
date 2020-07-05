@@ -3,7 +3,7 @@ title: Spring 2019
 
 type: docs
 layout: docs
-
+date: "2019-01-22T17:30:00Z"
 authors: []
 summary: Slide decks from ACM-W GBMs for Spring 2019
 menu:

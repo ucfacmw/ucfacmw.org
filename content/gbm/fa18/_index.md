@@ -3,7 +3,7 @@ title: Fall 2018
 
 type: docs
 layout: docs
-
+date: "2018-08-22T17:30:00Z"
 authors: []
 summary: Slide decks from ACM-W GBMs for Fall 2018
 menu:
