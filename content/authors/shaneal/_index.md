@@ -20,19 +20,23 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hi! My name is Shaneal and I was a treasurer for ACM-W for the 2018 - 2019 school year.
 
 # Add more/change interests if you'd like
 interests:
-# - 
+- Internet of Things
+- Rehabilitation Technology
 
 
 # Replace with proper information
 education:
-  # courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  courses:
+  - course: BSc in Computer Engineering
+    institution: University of Central Florida
+    year: 2021
+  - course: Minor in Intelligent Robotic Systems
+    institution: University of Central Florida
+    year: 2021
 
 
 # Social/Academic Networking
@@ -54,19 +58,19 @@ education:
 # ============== README ===========================
 
 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: ''  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: ''  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -84,3 +88,4 @@ user_groups:
 # Add your biography below the ---
 ---
 
+Hi! My name is Shaneal and I was a treasurer for ACM-W for the 2018 - 2019 school year.
