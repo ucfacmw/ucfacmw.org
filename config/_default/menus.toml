@@ -28,9 +28,9 @@
 #   weight = 40
 
 [[ main ]]
-  name = "Committees"
+  name = "Programs"
   parent = "home"
-  url = "/committees/"
+  url = "/programs/"
   weight = 30
 
 # [[main]]
