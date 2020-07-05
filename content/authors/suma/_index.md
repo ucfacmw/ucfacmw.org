@@ -19,17 +19,20 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am junior majoring in Information Technology. 
 
 interests:
 # - 
 
 # Replace with proper information
 education:
-  # courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  courses: 
+  - course: Bacholors in Science in Information Technology
+    institution: University of Central Florida
+    year: 2022
+  - course: Minor in Secure Computing and Networks
+    institution: University of Central Florida
+    year: 2022
 
 
 # Social/Academic Networking
@@ -53,15 +56,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ucfacmw.events@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/sumamarri/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/suma_marri/?hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/smarri0612
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -80,5 +83,4 @@ user_groups:
 
 # Add your biography below the ---
 ---
-
-
+Hey! I'm Suma and I'm currently the Events Director for ACM & ACM-W at [UCF](https://www.ucf.edu/). I have been part of ACM-W for over a year. I have made amazing friends with the same interests just by going to the GBMs in this organization. As the events director, I hope to create fun events for all of us to enjoy this semester. Have fun!!!

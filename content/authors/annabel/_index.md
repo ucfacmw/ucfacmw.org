@@ -28,10 +28,10 @@ interests:
 
 # Replace with proper information
 education:
-  # courses:
-  # - course: BS in Computer Science
-  #   institution: University of Central Florida
-  #   year: 2020
+   courses:
+   - course: BS in Computer Science
+     institution: University of Central Florida
+     year: 2020
 
 
 # Social/Academic Networking
