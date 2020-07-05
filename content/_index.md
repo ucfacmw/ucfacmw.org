@@ -39,5 +39,7 @@ title: home
 </main>
 </html>
 
+{{< testimonies >}}
+<br>
 <!-- Shortcode for the Social Media Carousel look at `layouts/shortcodes/carousel` -->
 {{< carousel >}}
