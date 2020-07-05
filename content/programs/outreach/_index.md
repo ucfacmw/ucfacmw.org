@@ -1,9 +1,5 @@
 ---
 title: Outreach Committee
-
-menu.programs:
-  outreach:
-    name: Outreach Commitee
 ---
 <br>
 <!-- ================================================== -->

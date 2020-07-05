@@ -1,9 +1,5 @@
 ---
 title: Events Committee
-author: suma
-menu.programs:
-  events:
-    name: Events Commitee
 ---
 <br>
 <!-- ================================================== -->

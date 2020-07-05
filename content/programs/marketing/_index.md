@@ -1,9 +1,5 @@
 ---
 title: Marketing Committee
-
-menu.programs:
-  marketing:
-    name: Marketing Commitee
 ---
 <br>
 <!-- ================================================== -->

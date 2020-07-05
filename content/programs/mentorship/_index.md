@@ -1,9 +1,5 @@
 ---
 title: Mentorship Program
-
-menu.programs:
-  mentorship:
-    name: Mentorship Program
 ---
 <br>
 <!-- ================================================== -->
