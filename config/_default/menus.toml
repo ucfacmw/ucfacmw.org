@@ -83,23 +83,3 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
-
-[[menu.programs]]
-  name = "Mentorship Program"
-  url = "/programs/mentorship/"
-  weight = 10
-
-[[menu.programs]]
-  name = "Outreach Committee"
-  url = "/programs/outreach/"
-  weight = 20
-
-[[menu.programs]]
-  name = "Events Committee"
-  url = "/programs/events/"
-  weight = 30
-
-[[menu.programs]]
-  name = "Marketing Committee"
-  url = "/programs/marketing/"
-  weight = 40

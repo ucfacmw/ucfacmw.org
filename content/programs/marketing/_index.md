@@ -1,5 +1,8 @@
 ---
 title: Marketing Committee
+
+menu:
+  programs:
 ---
 <br>
 <!-- ================================================== -->

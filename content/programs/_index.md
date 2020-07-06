@@ -3,6 +3,12 @@ title: Programs
 
 type: docs
 layout: docs
+
+menu:
+  main:
+    weight: 20
+    parent: home
+  programs:
 ---
 <br>
 <!-- ================================================== -->
