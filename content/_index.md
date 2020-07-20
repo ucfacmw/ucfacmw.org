@@ -1,6 +1,9 @@
 ---
 title: Home
 ---
+<!-- <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-fdf4722c-f449-429a-af37-bfa89b390635"></div> -->
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0abd48373342e252edfcaf177/649f85d3272fd875f4a9cb454.js");</script>
 <html>
 <main id="home">
     <div class="row" id="mission-statement">
