@@ -31,6 +31,12 @@
   name = "Programs"
   parent = "home"
   url = "/programs/"
+  weight = 20
+
+[[ main ]]
+  name = "Resume Bank"
+  parent = "home"
+  url = "https://forms.gle/UkHxwfayCCZ7qGYG8"
   weight = 30
 
 # [[main]]

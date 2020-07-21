@@ -1,0 +1,23 @@
+<div class="card-columns">
+{{ $photos := .Page.Params.photos }}
+{{- range $photo := $photos -}}
+    <div class="card">
+      <a href="/img/members/{{ $photo }}" data-toggle="lightbox" data-gallery="member-photos">
+        <img src="/img/members/{{ $photo }}" class="img-fluid">
+      </a>
+    </div>
+{{- end -}}
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js"></script>
+<script src="hhttps://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js.map"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js.map"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"></script>
+
+<script>
+    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+    event.preventDefault();
+    $(this).ekkoLightbox();
+});
+</script>
