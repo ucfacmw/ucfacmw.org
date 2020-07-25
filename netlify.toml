@@ -84,3 +84,18 @@
   from = "/teampixel-game"
   to = "https://docs.google.com/spreadsheets/d/1TLobPG42v-VNKdXo6pmJ6eBtI3i1LNj6hYQOCVIZTEw/edit?usp=sharing"
   status = 301
+
+[[ redirects ]]
+  from = "/newsletter"
+  to = "http://eepurl.com/dlb8rD"
+  status = 301
+
+[[ redirects ]]
+  from = "/mentor"
+  to = "https://forms.gle/16ntv4Janzf2yfpu6"
+  status = 301
+
+[[ redirects ]]
+  from = "/mentee"
+  to = "https://forms.gle/it9ksgix7CN1CRiE9"
+  status = 301
