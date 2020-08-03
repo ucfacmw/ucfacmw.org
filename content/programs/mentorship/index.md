@@ -9,26 +9,20 @@ authors:
 menu:
 programs:
 ---
-<br>
-<!-- ================================================== -->
-<!-- Remove this section once the once the page is done -->
-<!-- ================================================== -->
-{{< alert danger >}}
+Our Mentorship Program for Fall 2020 is officially opened!
 
-:construction: UNDER CONSTRUCTION :construction:
+**All applications will close on Monday, August 31st, 2020!**
 
-{{< /alert >}}
-<!-- ================================================== -->
-<br>
+# Mentor Application
 
-## Here you'll be able to find current and past events hosted by the Mentorship Program!
+:arrow_down: Click on the flyer below to apply as an ACM-W **Mentor**!! :arrow_down:
+<a href="https://ucfacmw.org/mentor">
+    <img src="/img/mentorship/mentor-fa20-flyer.png"></img>
+</a>
 
-<div class="card-columns">
-  <div class="card">
-    <img class="card-img-top" src="/img/members/MentorReception-Group2018.JPG">
-    <div class="card-body">
-      <h5 class="card-title">Fall 2020</h5>
-      <a href="/programs/mentorship/fa20/" class="btn btn-info">More info</a>
-    </div>
-  </div>
-</div>
+# Mentee Application
+
+:arrow_down: Click on the flyer below to apply as an ACM-W **Mentee**!! :arrow_down:
+<a href="https://ucfacmw.org/mentee">
+    <img src="/img/mentorship/mentee-fa20-flyer.png"></img>
+</a>
