@@ -28,7 +28,7 @@ programs:
     <img class="card-img-top" src="/img/members/MentorReception-Group2018.JPG">
     <div class="card-body">
       <h5 class="card-title">Fall 2020</h5>
-      <a href="/programs/mentorship/fa20" class="btn btn-info">More info</a>
+      <a href="/programs/mentorship/fa20/" class="btn btn-info">More info</a>
     </div>
   </div>
 </div>
