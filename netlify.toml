@@ -79,3 +79,18 @@
   from = "/resume-bank"
   to = "https://forms.gle/UkHxwfayCCZ7qGYG8"
   status = 301
+
+[[ redirects ]]
+  from = "/newsletter"
+  to = "http://eepurl.com/dlb8rD"
+  status = 301
+
+[[ redirects ]]
+  from = "/mentor"
+  to = "https://forms.gle/16ntv4Janzf2yfpu6"
+  status = 301
+
+[[ redirects ]]
+  from = "/mentee"
+  to = "https://forms.gle/it9ksgix7CN1CRiE9"
+  status = 301
