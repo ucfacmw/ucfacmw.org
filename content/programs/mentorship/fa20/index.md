@@ -5,6 +5,9 @@ type: project
 
 authors:
 - komila
+
+menu:
+programs:
 ---
 
 Our Mentorship Program for Fall 2020 is officially opened!
