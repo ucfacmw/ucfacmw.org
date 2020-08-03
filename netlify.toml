@@ -74,3 +74,8 @@
   from = "/director-application"
   to = "https://docs.google.com/forms/d/e/1FAIpQLSf9c6YkfWZ_xlz2Wrmpo262XtDPGAgLaHzi8PUDEtHZdKlvlA/viewform"
   status = 301
+
+[[ redirects ]]
+  from = "/resume-bank"
+  to = "https://forms.gle/UkHxwfayCCZ7qGYG8"
+  status = 301
