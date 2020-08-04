@@ -15,7 +15,7 @@ menu:
 {{< details summary="**What are SIGs? :raised_eyebrow:**" >}}
 **We're glad you asked! :grin:**
 
-> SIGs represent major areas of computing, addressing the interests of technical communities that drive innovation. SIGs offer a wealth of conferences, publications and activities focused on specific computing sub-disciplines. They enable members to share expertise, discovery and best practices. - ACM
+> Special Interest Groups (SIGs) represent major areas of computing, addressing the interests of technical communities that drive innovation. SIGs offer a wealth of conferences, publications and activities focused on specific computing sub-disciplines. They enable members to share expertise, discovery and best practices. - ACM
 
 <a class="btn btn-info btn-lg" href="https://www.acm.org/special-interest-groups" role="button">
 Learn more about SIGs
