@@ -14,6 +14,7 @@ title: Home
     <div class="card-deck">
       <div class="card text-white bg-dark">
         <img class="card-img-top" style="width: 60%;margin: 0 auto;" src="/img/logos/ACM-logo.png">
+        <div class="card-text text-warning text-center">Association for Computing Machinery</div>
         <div class="card-body">
           <p class="card-text">Our mission is to provide a voice for student concerns about computer-related issues and
             a venue for educational enrichment. Membership is open to anyone with an interest in Computer Science, IT,
@@ -24,6 +25,7 @@ title: Home
       </div>
       <div class="card text-white bg-dark">
         <img class="card-img-top" style="width: 60%;margin: 0 auto;" src="/img/logos/ACM-W-logo.png">
+        <div class="card-text text-warning text-center">Association for Computing Machinery - Women in Tech</div>
         <div class="card-body">
           <p class="card-text">Our mission is to support, celebrate, and advocate internationally for the full
             engagement of women in all aspects of the computing field, providing a wide range of programs and services
@@ -38,7 +40,7 @@ title: Home
         <div class="card text-center text-white bg-dark">
         <img class="card-img-top" style="width: 30%;margin: 0 auto;" src="/img/logos/ACM&ACMW-logo.png">
           <div class="card-body">
-            <h2 class="card-title text-center text-light">ACM & ACM-W</h5>
+            <h2 class="card-title text-center text-warning">ACM & ACM-W</h5>
               <p class="card-text text-center"> ACM & ACM-W at UCF organizes and promotes group activities, such as
                 visits to computer-related businesses, conferences, and museums. During our GBMs we discuss relative
                 political issues regarding computing, have guest speakers/lecturers, promote internships and co-ops
