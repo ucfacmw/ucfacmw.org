@@ -94,3 +94,14 @@
   from = "/mentee"
   to = "https://forms.gle/it9ksgix7CN1CRiE9"
   status = 301
+
+[[ redirects ]]
+  from = "/1st-GBM-ideas"
+  to = "https://forms.gle/NAiHmdrjx5kcEJqL6"
+  status = 301
+
+[[ redirects ]]
+  from = "/availability"
+  to = "https://www.when2meet.com/?9478913-oGBIQ"
+  status = 301
+
