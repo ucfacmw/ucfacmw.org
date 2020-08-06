@@ -81,7 +81,7 @@
   status = 301
 
 [[ redirects ]]
-  from = "/newsletter"
+  from = "/subscribe-newsletter"
   to = "http://eepurl.com/dlb8rD"
   status = 301
 
