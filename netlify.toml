@@ -105,3 +105,7 @@
   to = "https://www.when2meet.com/?9478913-oGBIQ"
   status = 301
 
+[[ redirects ]]
+  from = "/elections"
+  to = "https://forms.gle/q8x79R4McZy6DTiLA"
+  status = 301
