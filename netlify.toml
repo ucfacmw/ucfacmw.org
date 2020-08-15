@@ -109,3 +109,8 @@
   from = "/SU20-1st-SignIn"
   to = "https://forms.gle/jcDsPTq9L6XanrB6A"
   status = 301
+
+[[ redirects ]]
+  from = "/join-committee"
+  to = "https://forms.gle/2bQZt5AepzvT1Rvt5"
+  status = 301
