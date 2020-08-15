@@ -114,3 +114,13 @@
   from = "/join-committee"
   to = "https://forms.gle/2bQZt5AepzvT1Rvt5"
   status = 301
+
+[[ redirects ]]
+  from = "/elections"
+  to = "https://forms.gle/Z6bAKUfdsSjLwdvf9"
+  status = 301
+  
+[[ redirects ]]
+  from = "/candidates"
+  to = "https://drive.google.com/file/d/1bo2uY4FYbBvr_99zFU9w6B_3Erp9sOwz/view?usp=sharing"
+  status = 301
