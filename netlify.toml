@@ -105,3 +105,7 @@
   to = "https://www.when2meet.com/?9478913-oGBIQ"
   status = 301
 
+[[ redirects ]]
+  from = "/SU20-1st-SignIn"
+  to = "https://forms.gle/jcDsPTq9L6XanrB6A"
+  status = 301
