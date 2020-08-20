@@ -19,19 +19,20 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am interested in developing my knowledge of programming and new technologies through work on projects. I am currently a developer for the Tech Committee of
+the Society of Hispanic Professional Engineers at the University of Central Florida where we are constantly improving our mobile application.
 
 # Add more/change interests if you'd like
 interests:
-# - 
-
+# - Project Development
+# - Artificial Intelligence
 
 # Replace with proper information
 # education:
 #    courses:
 #    - course: BS in Computer Science
 #      institution: University of Central Florida
-#      year: 2020
+#      year: 2022
 
 
 # Social/Academic Networking
