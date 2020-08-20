@@ -7,7 +7,7 @@
 
 The **ACM & ACM-W** site uses [hugo-academic](https://sourcethemes.com/academic). To get started, you'll want to clone the repo, using either:
 
-**1.**  `git clone git@github.com:ucfacmw/site` (recommended)
+**1.**  `git clone git@github.com:ucfacmw/ucfacmw.org` (recommended)
 1. **(a)** Once you've cloned, make sure you run  `git submodule update --init --recursive` from the root directory of the repository.
 
 **2.**  [GitHub Desktop](https://desktop.github.com/) (only on MacOS and Windows) 
