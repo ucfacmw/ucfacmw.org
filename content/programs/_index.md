@@ -62,9 +62,7 @@ menu:
 </div>
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Apply to be a Director!</h5>
-    <p class="card-text">We are opening a second round of elections for members to start a new committee.
-    </p>
+    <h5 class="card-title">Join a Committee!</h5>
     <a href="https://forms.gle/eVzxSbSgeVmyXi2YA" class="btn btn-info">Apply Here!</a>
   </div>
 </div>
