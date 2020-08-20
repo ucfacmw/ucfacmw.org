@@ -19,8 +19,7 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in developing my knowledge of programming and new technologies through work on projects. I am currently a developer for the Tech Committee of
-the Society of Hispanic Professional Engineers at the University of Central Florida where we are constantly improving our mobile application.
+bio: I am interested in developing my knowledge of programming and new technologies through work on projects. I am currently the Webmasters Director for ACM & ACM-W where I maintain the website and work on new features for a better user experience. I am also a developer for the Tech Committee of the Society of Hispanic Professional Engineers at the University of Central Florida where we are constantly improving our mobile application.
 
 # Add more/change interests if you'd like
 interests:
