@@ -124,3 +124,8 @@
   from = "/candidates"
   to = "https://drive.google.com/file/d/1bo2uY4FYbBvr_99zFU9w6B_3Erp9sOwz/view?usp=sharing"
   status = 301
+
+[[ redirects ]]
+  from = "/event-interest"
+  to = "https://forms.gle/xMAd1MTPutFP7r6v7"
+  status = 301
