@@ -21,10 +21,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence, Computational Cognitive Science and Natural Language Processing.
 
-interests:
-- Artificial Intelligence
-- Computational Cognitive Science
-- Natural Language Processing 
+# interests:
+
 
 education:
   courses:
@@ -49,10 +47,18 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/h3rmi0n3
-
-- icon: globe
-  icon_pack: fas
-  link: https://chloegeller.com/
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/chloegeller
+- icon: snapchat
+  icon_pack: fab
+  link: https://www.snapchat.com/add/itschloehey
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/chloegeller_
+# - icon: globe
+#   icon_pack: fas
+#   link: https://chloegeller.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: file-pdf
@@ -71,6 +77,11 @@ user_groups:
 # Add your biography below the ---
 ---
 
-Hey there! :waving_hand: I'm Chloë and I'm currently the President for ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/). Last year, I was the Secretary and the Mentorship Director for ACM-W. :relaxed:
+Hey there! :waving_hand: I'm Chloë and I'm currently the President of ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/). Last year, I was the Secretary and the Mentorship Director for ACM-W. :relaxed:
 
-(TODO: add more content later)
+My interests include:
+  - Artificial Intelligence
+  - Computational Cognitive Science
+  - Natural Language Processing 
+
+On another note, I'm also the current Vice President of [AI@UCF](https://ucfai.org)! :robot: 
