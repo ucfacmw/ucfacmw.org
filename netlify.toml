@@ -71,11 +71,6 @@
   status = 301
 
 [[ redirects ]]
-  from = "/director-application"
-  to = "https://docs.google.com/forms/d/e/1FAIpQLSf9c6YkfWZ_xlz2Wrmpo262XtDPGAgLaHzi8PUDEtHZdKlvlA/viewform"
-  status = 301
-
-[[ redirects ]]
   from = "/resume-bank"
   to = "https://forms.gle/UkHxwfayCCZ7qGYG8"
   status = 301
@@ -96,16 +91,6 @@
   status = 301
 
 [[ redirects ]]
-  from = "/1st-GBM-ideas"
-  to = "https://forms.gle/NAiHmdrjx5kcEJqL6"
-  status = 301
-
-[[ redirects ]]
-  from = "/availability"
-  to = "https://www.when2meet.com/?9478913-oGBIQ"
-  status = 301
-
-[[ redirects ]]
   from = "/SU20-1st-SignIn"
   to = "https://forms.gle/jcDsPTq9L6XanrB6A"
   status = 301
@@ -114,18 +99,13 @@
   from = "/join-committee"
   to = "https://forms.gle/2bQZt5AepzvT1Rvt5"
   status = 301
-
-[[ redirects ]]
-  from = "/elections"
-  to = "https://forms.gle/Z6bAKUfdsSjLwdvf9"
-  status = 301
   
-[[ redirects ]]
-  from = "/candidates"
-  to = "https://drive.google.com/file/d/1bo2uY4FYbBvr_99zFU9w6B_3Erp9sOwz/view?usp=sharing"
-  status = 301
-
 [[ redirects ]]
   from = "/event-interest"
   to = "https://forms.gle/xMAd1MTPutFP7r6v7"
+  status = 301
+
+[[ redirects ]]
+  from = "/Fa20-Interest-SignIn"
+  to = "https://forms.gle/c4Kkto1S9o61YauE9"
   status = 301
