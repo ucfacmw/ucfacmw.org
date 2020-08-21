@@ -109,3 +109,13 @@
   from = "/Fa20-Interest-SignIn"
   to = "https://forms.gle/c4Kkto1S9o61YauE9"
   status = 301
+
+[[ redirects ]]
+  from = "/packages"
+  to = "https://forms.gle/z7At65gc51Y3JZeU9"
+  status = 301
+
+[[ redirects ]]
+  from = "/recognition"
+  to = "https://forms.gle/Vc5tzCk2ia8LUUnq6"
+  status = 301
