@@ -25,7 +25,6 @@ bio: Rock climber who loves studying computer science and linguistics, and somet
 # interests:
 # - 
 
-
 # Replace with proper information
  education:
     courses:
