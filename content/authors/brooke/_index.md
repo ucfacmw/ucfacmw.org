@@ -59,10 +59,10 @@ social:
   link: 'mailto:ucfacmw.sponsorship@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: 'https://scholar.google.com/citations?user=5M0F-L0AAAAJ&hl=en&oi=ao'
+  link: https://scholar.google.com/citations?user=5M0F-L0AAAAJ&hl=en&oi=ao
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/brooke-bottoni/'
+  link: https://www.linkedin.com/in/brooke-bottoni/
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
