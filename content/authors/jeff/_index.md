@@ -23,15 +23,15 @@ organizations:
 
 # Add more/change interests if you'd like
 interests:
-# - Project Development
-# - Artificial Intelligence
+- Project Development
+- Artificial Intelligence
 
 # Replace with proper information
-# education:
-#    courses:
-#    - course: BS in Computer Science
-#      institution: University of Central Florida
-#      year: 2022
+education:
+   courses:
+    - course: BS in Computer Science
+     institution: University of Central Florida
+     year: 2022
 
 
 # Social/Academic Networking
