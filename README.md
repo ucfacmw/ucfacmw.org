@@ -55,6 +55,29 @@ Feel free to inspect the `docker-compose.yml` and ask away. Once you've started 
 
 Then [personalize the site](https://sourcethemes.com/academic/docs/get-started/)!
 
+<br>
+
+## Pushing to the repository
+
+**Please make sure you always pull, before committing or pushing to the repository!** :smile:
+
+We added branches for each Leadership Team member. When you are pushing changes, please make sure you are using **your respective branch**, instead of pushing to `master`. Even if you are making changes for another Team member.
+
+**If you are an Outside Collaborator, please create a new branch before pushing any changes!** 
+
+<br>
+
+When you are pushing to another branch, other than `master`, you won't be able to just type: `git push`.
+Instead you'll type: `git push origin <your-name>`.
+
+If you would like to see the contents of other branches, type: `git checkout <branch-name>`.
+
+<br>
+
+To see the changes you've pushed, or another teammates changes, you'll have to visit: `<branch-name>--acmw.netlify.app`. Only changes pushed to `master` will render to `ucfacmw.org`.
+
+<br>
+
 ## More resources for editing the website
 
 Here you'll be able to get help with [Hugo Documentation](https://gohugo.io/documentation/).
