@@ -26,11 +26,11 @@ bio: Rock climber who loves studying computer science and linguistics, and somet
 # - 
 
 # Replace with proper information
- education:
-    courses:
-    - course: BS in Computer Science
-      institution: University of Central Florida
-      year: 2021
+education:
+  courses:
+  - course: BS in Computer Science
+    institution: University of Central Florida
+    year: 2021
 
 
 # Social/Academic Networking
