@@ -129,3 +129,8 @@
   from = "/opening-knight"
   to = "https://ucf.zoom.us/j/96957377538"
   status = 301
+
+[[ redirects ]]
+  from = "/opening-knight-SignIn"
+  to = "https://forms.gle/RLCwS8Y8ti4t8XQX6"
+  status = 301
