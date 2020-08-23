@@ -19,19 +19,22 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hi! I'm Steven, the Web Development Director for ACM and ACM-W.
 
 # Add more/change interests if you'd like
 interests:
-# - 
-
+- Web and Mobile Dev.
+- Quantum Computing
 
 # Replace with proper information
-# education:
-#    courses:
-#    - course: BS in Computer Science
-#      institution: University of Central Florida
-#      year: 2020
+education:
+  courses:
+  - course: BS in Computer Engineering
+    institution: University of Central Florida
+    year: 2021
+  - course: Minor in Mathematics
+    institution: University of Central Florida
+    year: 2021
 
 
 # Social/Academic Networking
@@ -57,15 +60,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ucfacmw.dev@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/steven7926
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -81,6 +78,7 @@ user_groups:
 - Officers
 - Committees
 - Web & Mobile Dev. Committee
+
 # Add your biography below the ---
 ---
-
+Hi! I'm Steven, the Web Development Director for ACM and ACM-W.

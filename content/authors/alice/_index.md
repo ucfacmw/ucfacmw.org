@@ -18,7 +18,7 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hi! I'm Alice, the Mobile Development Director for ACM and ACM-W.
 
 # Add more/change interests if you'd like
 interests:
@@ -29,10 +29,10 @@ interests:
 
 # Replace with proper information
 education:
-   courses:
-   - course: B.S. Computer Science
-     institution: University of Central Florida
-     year: 2023
+  courses:
+  - course: B.S. Computer Science
+    institution: University of Central Florida
+    year: 2023
 
 
 # Social/Academic Networking
