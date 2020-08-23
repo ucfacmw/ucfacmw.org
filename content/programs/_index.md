@@ -98,7 +98,7 @@ menu:
 <div class="card">
   <div class="card-body">
     <h5 class="card-title">Join a Committee!</h5>
-    <a href="https://forms.gle/eVzxSbSgeVmyXi2YA" class="btn btn-info">Join Here!</a>
+    <a href="https://ucfacmw.org/join-committee" class="btn btn-info">Join Here!</a>
   </div>
 </div>
 </div>
