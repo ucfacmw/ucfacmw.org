@@ -39,6 +39,12 @@
   url = "https://forms.gle/UkHxwfayCCZ7qGYG8"
   weight = 30
 
+[[ main ]]
+  name = "Care Packages"
+  parent = "home"
+  url = "https://ucfacmw.org/packages"
+  weight = 40
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
