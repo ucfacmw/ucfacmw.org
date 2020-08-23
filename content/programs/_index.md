@@ -61,9 +61,44 @@ menu:
   </div>
 </div>
 <div class="card">
+  <img class="card-img-top" src="/img/members/Fa18-Puzzle1.JPG">
+  <div class="card-body">
+    <h5 class="card-title">Workshops Committee</h5>
+    <a href="/programs/workshops/" class="btn btn-info">More info</a>
+  </div>
+</div>
+<div class="card">
+  <img class="card-img-top" src="/img/members/Fa2018-GBM3.jpg">
+  <div class="card-body">
+    <h5 class="card-title">Projects Committee</h5>
+    <a href="/programs/projects/" class="btn btn-info">More info</a>
+  </div>
+</div>
+<div class="card">
+  <img class="card-img-top" src="/img/programs/devops.png">
+  <div class="card-body">
+    <h5 class="card-title">Web & Mobile Dev. Committee</h5>
+    <a href="/programs/web-mobile-dev/" class="btn btn-info">More info</a>
+  </div>
+</div>
+<div class="card">
+  <img class="card-img-top" src="/img/members/Fa18-DevFest.png">
+  <div class="card-body">
+    <h5 class="card-title">Sponsorship Committee</h5>
+    <a href="/programs/sponsorship/" class="btn btn-info">More info</a>
+  </div>
+</div>
+<div class="card">
+  <img class="card-img-top" src="/img/programs/webmasters.png">
+  <div class="card-body">
+    <h5 class="card-title">Webmasters</h5>
+    <a href="/programs/webmasters/" class="btn btn-info">More info</a>
+  </div>
+</div>
+<div class="card">
   <div class="card-body">
     <h5 class="card-title">Join a Committee!</h5>
-    <a href="https://forms.gle/eVzxSbSgeVmyXi2YA" class="btn btn-info">Apply Here!</a>
+    <a href="https://forms.gle/eVzxSbSgeVmyXi2YA" class="btn btn-info">Join Here!</a>
   </div>
 </div>
 </div>

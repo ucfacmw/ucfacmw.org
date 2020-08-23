@@ -1,21 +1,14 @@
 ---
-title: Fall 2020
+title: Events Committee
 
-type: docs
-layout: docs
-date: "2020-01-22T17:30:00Z"
+type: project
 
-summary: Outreach events from Fall 2020
+authors:
+- suma
+
 menu:
-#   gbm:
-#     name: Fall 2019
-#     parent: GBMs
-  fa2020:
-    name: Fall 2020
+  programs:
 ---
-
-{{< syllabus >}}
-
 <br>
 <!-- ================================================== -->
 <!-- Remove this section once the once the page is done -->
@@ -27,3 +20,5 @@ menu:
 {{< /alert >}}
 <!-- ================================================== -->
 <br>
+
+## Here you'll be able to find current and past events hosted by the Events committee!

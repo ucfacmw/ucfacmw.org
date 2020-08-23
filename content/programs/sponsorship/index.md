@@ -1,5 +1,10 @@
 ---
-title: Marketing Committee
+title: Sponsorship Committee
+
+type: project
+
+authors:
+- brooke
 
 menu:
   programs:
@@ -16,4 +21,4 @@ menu:
 <!-- ================================================== -->
 <br>
 
-## Here you'll be able to find current and past events hosted by the Marketing committee!
+## Here you'll be able to find current events hosted by the Sponsorship Committee!
