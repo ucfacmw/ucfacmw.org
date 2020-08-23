@@ -124,3 +124,8 @@
   from = "/interest-meeting"
   to = "https://ucf.zoom.us/j/93713845306"
   status = 301
+
+[[ redirects ]]
+  from = "/opening-knight"
+  to = "https://ucf.zoom.us/j/96957377538"
+  status = 301
