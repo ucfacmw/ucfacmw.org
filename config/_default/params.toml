@@ -108,7 +108,7 @@ contact_links = [
   {icon = "instagram", icon_pack = "fab", name = "DM us", link = "https://ucfacmw.org/instagram"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "discord", icon_pack = "fab", name = "Chat with us", link = "https://ucfacmw.org/discord"},
-  {icon = "facebook", icon_pack = "fab", name = "Message us", link = "https://ucfacmw.org/facebook"},
+  {icon = "facebook", icon_pack = "fab", name = "Message us", link = "https://ucfacmw.org/facebook-page"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]

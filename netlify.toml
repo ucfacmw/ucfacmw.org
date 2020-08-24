@@ -25,6 +25,18 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
+# ===================================================================
+# ================== DO NOT TOUCH ANYTHING ABOVE ====================
+# ===================================================================
+
+# Here's where you'll add redirect links for the website
+
+# EXAMPLE:
+# [[ redirects ]]
+#   from = "/<what-you-want-the-link-to-be>"
+#   to = "<the-cureent-link-you-have>"
+#   status = 301
+
 [[ redirects ]]
   from = "/github"
   to = "https://github.com/ucfacmw"
@@ -88,11 +100,6 @@
 [[ redirects ]]
   from = "/mentee"
   to = "https://forms.gle/it9ksgix7CN1CRiE9"
-  status = 301
-
-[[ redirects ]]
-  from = "/SU20-1st-SignIn"
-  to = "https://forms.gle/jcDsPTq9L6XanrB6A"
   status = 301
 
 [[ redirects ]]
