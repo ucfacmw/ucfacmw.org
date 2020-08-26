@@ -9,6 +9,20 @@ menu:
     name: Newsletters
 ---
 
+## Fall 2020
+
+<style type="text/css">
+  .display_archive {
+    font-family: arial,verdana;
+    font-size: 12px;
+  }
+  .campaign {
+    line-height: 125%;
+    margin: 5px;
+  }
+</style>
+<script language="javascript" src="//ucfacmw.us17.list-manage.com/generate-js/?u=0abd48373342e252edfcaf177&fid=9522&show=10" type="text/javascript"></script>
+
 ## Summer 2020
 
 <style type="text/css">
