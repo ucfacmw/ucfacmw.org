@@ -134,3 +134,8 @@
   from = "/opening-knight-SignIn"
   to = "https://forms.gle/RLCwS8Y8ti4t8XQX6"
   status = 301
+
+[[ redirects ]]
+  from = "/projects-interest"
+  to = "https://forms.gle/krnP2kuqXPNcEAiw8"
+  status = 301
