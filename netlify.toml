@@ -25,6 +25,12 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
+# ===================================================================
+# ================== DO NOT TOUCH ANYTHING ABOVE ====================
+# ===================================================================
+
+# Here's where you'll add redirect links for the website
+
 [[ redirects ]]
   from = "/github"
   to = "https://github.com/ucfacmw"
