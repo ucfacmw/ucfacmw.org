@@ -9,6 +9,18 @@
   weight = 10
   hasChildren = true
 
+[[main]]
+  name = "Members"
+  identifier = "members"
+  weight = 30
+  hasChildren = true
+
+[[main]]
+  name = "Activities"
+  identifier = "activities"
+  weight = 20
+  hasChildren = true
+
 [[ main ]]
   name = "Welcome"
   parent = "home"
@@ -29,21 +41,27 @@
 
 [[ main ]]
   name = "Programs"
-  parent = "home"
+  parent = "activities"
   url = "/programs/"
   weight = 20
 
 [[ main ]]
   name = "Resume Bank"
-  parent = "home"
+  parent = "members"
   url = "https://forms.gle/UkHxwfayCCZ7qGYG8"
   weight = 30
 
 [[ main ]]
   name = "Care Packages"
-  parent = "home"
+  parent = "members"
   url = "https://ucfacmw.org/packages"
   weight = 40
+
+[[ main ]]
+  name = "Sign Up"
+  parent = "members"
+  url = "https://ucfacmw.org/sign-up"
+  weight = 50
 
 # [[main]]
 #   name = "Posts"

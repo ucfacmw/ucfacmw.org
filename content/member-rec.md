@@ -5,8 +5,8 @@ type: project
 
 menu:
   main:
-    weight: 26
-    parent: home
+    weight: 32
+    parent: members
 
 date: 2020-08-23T16:00:00Z
 ---

@@ -1,26 +1,27 @@
 ---
 title: Programs
+weight: 1
 
 type: docs
-layout: docs
+# layout: docs
 
 menu:
   main:
     weight: 20
-    parent: home
+    parent: activities
   programs:
 ---
 <br>
 <!-- ================================================== -->
 <!-- Remove this section once the once the page is done -->
 <!-- ================================================== -->
-{{< alert danger >}}
+<!-- {{< alert danger >}} -->
 
-:construction: UNDER CONSTRUCTION :construction:
+<!-- :construction: UNDER CONSTRUCTION :construction: -->
 
-{{< /alert >}}
+<!-- {{< /alert >}} -->
 <!-- ================================================== -->
-<br>
+<!-- <br> -->
 
 <!-- Couldn't find a way to use pre-existing options without making this a widget page. For more information about Cards in Bootstrap please visit: https://getbootstrap.com/docs/4.0/components/card/ -->
 

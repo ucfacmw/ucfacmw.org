@@ -6,7 +6,8 @@ type: project
 menu:
   main:
     name: Zoom
-    weight: 22
+    weight: 26
+    parent: activities
 ---
 
 {{< alert danger >}}

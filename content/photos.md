@@ -32,6 +32,7 @@ menu:
   main:
     name: Photos
     weight: 25
+    parent: members
 ---
 
 <!-- This is a shortcode that generates the Photo Gallery.

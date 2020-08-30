@@ -4,7 +4,8 @@ title: Newsletters
 menu:
   main:
     name: Newsletters
-    weight: 25
+    weight: 52
+    parent: members
   newsletters:
     name: Newsletters
 ---
