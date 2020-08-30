@@ -23,15 +23,21 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-# - 
+- Piano
+- Audio Engineering
+- Jiu Jitsu
+- Video Games
 
 
 # Replace with proper information
-# education:
-#    courses:
-#    - course: BS in Computer Science
-#      institution: University of Central Florida
-#      year: 2020
+education:
+  courses:
+  - course: B.S. in Computer Science
+    institution: University of Central Florida
+    year: 2021
+  - course: Minor in Mathematics
+    institution: University of Central Florida
+    year: 2021
 
 
 # Social/Academic Networking
@@ -84,4 +90,8 @@ user_groups:
 
 # Add your biography below the ---
 ---
+I’m a senior at UCF that’s passionate about learning and helping others learn. I don’t come from a particularly science-y background, so my journey has been quick and bumpy. But it’s the destination that counts and so far, I haven’t been slowing down.
 
+I’d love to encourage as many others who are going through similar things I went through to pursue their dreams with as much enthusiasm.
+
+Fun Fact: I can speak fluent Russian.

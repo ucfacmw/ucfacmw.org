@@ -23,15 +23,19 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-# - 
+- Videos Games
+- Drawing
 
 
 # Replace with proper information
 education:
   courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  - course: BS in Computer Science
+    institution: University of Central Florida
+    year: 2021
+  - course: Minor in Mathematics
+    institution: University of Central Florida
+    year: 2021
 
 
 # Social/Academic Networking
@@ -53,10 +57,10 @@ education:
 # ============== README ===========================
 
 
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:ucfacmw.outreach@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:ucfacmw.outreach@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -84,4 +88,6 @@ user_groups:
 
 # Add your biography below the ---
 ---
+I am currently a junior, I transferred from Valencia College last fall and have been part of ACM-W for a little less than a year so I’m really excited to get to know everyone! When I’m not working on homework --or just procrastinating, you can find me playing video games, binging Netflix shows or listening to music.
 
+Fun Fact: I’m half Peruvian and half Israeli.

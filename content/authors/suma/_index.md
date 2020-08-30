@@ -19,10 +19,11 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am junior majoring in Information Technology. 
+bio: I'm a Junior majoring in Information Technology. 
 
 interests:
-# - 
+- Watching Indian Movies
+- Creating New Designs
 
 # Replace with proper information
 education:

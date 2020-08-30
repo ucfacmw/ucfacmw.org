@@ -23,14 +23,19 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-# - 
+- Digital Art
+- Game Development
+- Craft-Making
 
 # Replace with proper information
 education:
-  # courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  courses:
+  - course: BS in Digital Media, Web Dev. Track
+    institution: University of Central Florida
+    # year: 2012
+  - course: Minor in Computer Science
+    institution: University of Central Florida
+    # year: 2012
 
 
 # Social/Academic Networking
@@ -52,10 +57,10 @@ education:
 # ============== README ===========================
 
 
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:ucfacmw.marketing@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:ucfacmw.marketing@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -83,3 +88,4 @@ user_groups:
 
 # Add your biography below the ---
 ---
+I love meeting other creatives and although coding isn’t always perceived as so, I know some of the most creative people are involved in CS. I’m always looking to find people who have a lot of ideas and ambitions that use their talents.

@@ -23,7 +23,8 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-# - 
+- Video games (RPGs)
+- Baking
 
 
 # Replace with proper information
@@ -84,3 +85,5 @@ user_groups:
 # Add your biography below the ---
 ---
 Hello! I'm Annabel, the Vice President for ACM and ACM-W. Last year I was the Outreach Director for the club, and got to host an event with the nonprofit Coder Chicks for local girls to learn about app development and cybersecurity. I'm also the Webmaster for Habitat for Humanity at UCF.
+
+Fun Fact: I have dual US/UK citizenship.

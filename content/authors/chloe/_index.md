@@ -21,7 +21,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence, Computational Cognitive Science and Natural Language Processing.
 
-# interests:
+interests:
+- Artificial Intelligence
+- Computational Cognitive Science
+- Natural Language Processing 
 
 
 education:
@@ -78,10 +81,5 @@ user_groups:
 ---
 
 Hey there! :waving_hand: I'm Chloë and I'm currently the President of ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/). Last year, I was the Secretary and the Mentorship Director for ACM-W. :relaxed:
-
-My interests include:
-  - Artificial Intelligence
-  - Computational Cognitive Science
-  - Natural Language Processing 
 
 On another note, I'm also the current Vice President of [AI@UCF](https://ucfai.org)! :robot: 

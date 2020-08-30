@@ -23,7 +23,10 @@ bio: Constantly on the lookout for anything writing and technology related.
 
 # Add more/change interests if you'd like
 interests:
--
+- Writing/Journaling
+- Soccer
+- Rollerskating
+- Tech/Culture
 
 
 # Replace with proper information

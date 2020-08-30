@@ -23,14 +23,21 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-# - 
+- Video Games
+- Writing
+- Dancing
+- Crocheting
+- Anime
 
 # Replace with proper information
 education:
-  # courses:
-  # - course: PhD in Artificial Intelligence
-  #   institution: Stanford University
-  #   year: 2012
+  courses:
+  - course: BS in Computer Science
+    institution: University of Central Florida
+    # year: 2012
+  - course: Minor in Digital Media
+    institution: University of Central Florida
+    # year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,10 +58,10 @@ education:
 # ============== README ===========================
 
 
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:ucfacmw.treasure@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:ucfacmw.treasure@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen

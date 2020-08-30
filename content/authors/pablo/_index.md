@@ -23,15 +23,23 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-# - 
+- Video Games
+- Politics 
+- International Affairs/Culture
+- Space
+- Anime
+- Cars
 
 
 # Replace with proper information
-# education:
-#    courses:
-#    - course: BS in Computer Science
-#      institution: University of Central Florida
-#      year: 2020
+education:
+  courses:
+  - course: BS in Computer Science
+    institution: University of Central Florida
+    year: 2023
+  - course: Minor in Mathematics
+    institution: University of Central Florida
+    year: 2023
 
 
 # Social/Academic Networking
@@ -84,3 +92,6 @@ user_groups:
 # Add your biography below the ---
 ---
 
+Hello everyone! As an undergrad in Computer Science, I naturally enjoy Computers & Tech related subjects. You can always ask me for computer building advice! Easiest way to reach out is through Discord.
+
+If I don’t reply immediately-it is probably because I'm stuck at work or in a homework problem.

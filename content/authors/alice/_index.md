@@ -22,8 +22,12 @@ bio: Hi! I'm Alice, the Mobile Development Director for ACM and ACM-W.
 
 # Add more/change interests if you'd like
 interests:
-# - iOS development, interactive computing, ux design
-# - cooking, traveling, eating sweets
+- iOS Development
+- Interactive Computing
+- UX Design
+- Cooking
+- Traveling
+- Eating Sweets
 
 
 
@@ -86,11 +90,3 @@ user_groups:
 # Add your biography below the ---
 ---
 Hello! My name is Alice Zhang and I am the Mobile Development Director for ACM and ACM-W. I am extremely passionate about art and you can find my work [@ricedrink](https://instagram.com/ricedrink) on Instagram. 
-
-My interests include but are not limited to:
-  - iOS Development
-  - Interactive Computing
-  - UX Design
-  - Cooking
-  - Traveling
-  - Eating Sweets

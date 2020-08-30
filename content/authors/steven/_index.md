@@ -82,3 +82,7 @@ user_groups:
 # Add your biography below the ---
 ---
 Hi! I'm Steven, the Web Development Director for ACM and ACM-W.
+
+I'm currently a Senior Computer Engineering major working in Orlando as a software developer at a small startup company. I am addicted to coffee and hate peas.
+
+Fun Fact: For 6 years straight now, I've been wearing this turkey hat every Thanksgiving.
