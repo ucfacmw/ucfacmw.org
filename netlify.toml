@@ -97,11 +97,6 @@
   status = 301
 
 [[ redirects ]]
-  from = "/SU20-1st-SignIn"
-  to = "https://forms.gle/jcDsPTq9L6XanrB6A"
-  status = 301
-
-[[ redirects ]]
   from = "/join-committee"
   to = "https://forms.gle/2bQZt5AepzvT1Rvt5"
   status = 301
@@ -109,11 +104,6 @@
 [[ redirects ]]
   from = "/event-interest"
   to = "https://forms.gle/xMAd1MTPutFP7r6v7"
-  status = 301
-
-[[ redirects ]]
-  from = "/Fa20-Interest-SignIn"
-  to = "https://forms.gle/c4Kkto1S9o61YauE9"
   status = 301
 
 [[ redirects ]]
@@ -132,16 +122,16 @@
   status = 301
 
 [[ redirects ]]
-  from = "/opening-knight"
-  to = "https://ucf.zoom.us/j/2396601458"
-  status = 301
-
-[[ redirects ]]
-  from = "/opening-knight-SignIn"
-  to = "https://forms.gle/RLCwS8Y8ti4t8XQX6"
-  status = 301
-
-[[ redirects ]]
   from = "/projects-interest"
   to = "https://forms.gle/krnP2kuqXPNcEAiw8"
+  status = 301
+
+[[ redirects ]]
+  from = "/sign-up"
+  to = "https://forms.gle/n2TrWn1uk4xJZTar8"
+  status = 301
+
+[[ redirects ]]
+  from = "/sign-in"
+  to = "https://forms.gle/kD26DShoFjd3AEQF9"
   status = 301
