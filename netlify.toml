@@ -156,3 +156,10 @@
   to = "https://forms.gle/ZXrDgdDKnCJWgwTY6"
   status = 301
 # ===================================================================
+
+# Classmate Matcher Form
+[[ redirects ]]
+  from = "/find-classmates"
+  to = "https://forms.gle/zgCtJu5u553fMfGb8"
+  status = 301
+# ===================================================================
