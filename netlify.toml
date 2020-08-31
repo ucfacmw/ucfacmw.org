@@ -29,8 +29,9 @@
 # ================== DO NOT TOUCH ANYTHING ABOVE ====================
 # ===================================================================
 
-# Here's where you'll add redirect links for the website
+# Here's where you'll add redirect links for the website! :)
 
+# Social Media Redirects
 [[ redirects ]]
   from = "/github"
   to = "https://github.com/ucfacmw"
@@ -65,17 +66,35 @@
   from = "/home"
   to = "https://ucfacmw.org"
   status = 301
+# ===================================================================
 
+# Sign In & Sign Up Redirects
+[[ redirects ]]
+  from = "/sign-up"
+  to = "https://forms.gle/n2TrWn1uk4xJZTar8"
+  status = 301
+
+[[ redirects ]]
+  from = "/sign-in"
+  to = "https://forms.gle/kD26DShoFjd3AEQF9"
+  status = 301
+# ===================================================================
+
+# Sponsorship Deck Redirect
 [[ redirects ]]
   from = "/sponsorship-presentation"
   to = "https://www.canva.com/design/DAECeVTixdw/x3ZImmDh5_0rKbJ0QcaZfA/view?website#2"
   status = 301
+# ===================================================================
 
+# Online Store Redirect - Currently INACTIVE
 [[ redirects ]]
   from = "/online-store"
   to = "https://ucfacmw.square.site/"
   status = 301
+# ===================================================================
 
+# Member Perks Redirects
 [[ redirects ]]
   from = "/resume-bank"
   to = "https://forms.gle/UkHxwfayCCZ7qGYG8"
@@ -84,6 +103,37 @@
 [[ redirects ]]
   from = "/subscribe-newsletter"
   to = "http://eepurl.com/dlb8rD"
+  status = 301
+  
+[[ redirects ]]
+  from = "/packages"
+  to = "https://forms.gle/z7At65gc51Y3JZeU9"
+  status = 301
+
+[[ redirects ]]
+  from = "/recognition"
+  to = "https://forms.gle/Vc5tzCk2ia8LUUnq6"
+  status = 301
+# ===================================================================
+
+# Fall 2020 - Sponsor/RSO Collab. Form
+[[ redirects ]]
+  from = "/event-interest"
+  to = "https://forms.gle/xMAd1MTPutFP7r6v7"
+  status = 301
+# ===================================================================
+
+# Interest Meeting Redirect
+[[ redirects ]]
+  from = "/interest-meeting"
+  to = "https://ucf.zoom.us/j/93713845306"
+  status = 301
+# ===================================================================
+
+# Committee Links
+[[ redirects ]]
+  from = "/projects-interest"
+  to = "https://forms.gle/krnP2kuqXPNcEAiw8"
   status = 301
 
 [[ redirects ]]
@@ -100,38 +150,16 @@
   from = "/join-committee"
   to = "https://forms.gle/2bQZt5AepzvT1Rvt5"
   status = 301
-  
-[[ redirects ]]
-  from = "/event-interest"
-  to = "https://forms.gle/xMAd1MTPutFP7r6v7"
-  status = 301
 
 [[ redirects ]]
-  from = "/packages"
-  to = "https://forms.gle/z7At65gc51Y3JZeU9"
+  from = "/dev-interest"
+  to = "https://forms.gle/ZXrDgdDKnCJWgwTY6"
   status = 301
+# ===================================================================
 
+# Classmate Matcher Form
 [[ redirects ]]
-  from = "/recognition"
-  to = "https://forms.gle/Vc5tzCk2ia8LUUnq6"
+  from = "/find-classmates"
+  to = "https://forms.gle/zgCtJu5u553fMfGb8"
   status = 301
-
-[[ redirects ]]
-  from = "/interest-meeting"
-  to = "https://ucf.zoom.us/j/93713845306"
-  status = 301
-
-[[ redirects ]]
-  from = "/projects-interest"
-  to = "https://forms.gle/krnP2kuqXPNcEAiw8"
-  status = 301
-
-[[ redirects ]]
-  from = "/sign-up"
-  to = "https://forms.gle/n2TrWn1uk4xJZTar8"
-  status = 301
-
-[[ redirects ]]
-  from = "/sign-in"
-  to = "https://forms.gle/kD26DShoFjd3AEQF9"
-  status = 301
+# ===================================================================
