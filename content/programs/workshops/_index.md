@@ -22,7 +22,7 @@ menu:
 ## Here you'll be able to find current events hosted by the Workshops Committee!
 
 <br>
-
+<!-- 
 <div class="card-columns">
   <div class="card">
   <img class="card-img-top" src="/img/logos/GitHub-logo-W.png">
@@ -31,4 +31,4 @@ menu:
     <a href="/programs/workshops/intro-github" class="btn btn-info">More info</a>
   </div>
 </div>
-</div>
+</div> -->
