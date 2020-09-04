@@ -28,7 +28,7 @@ menu:
   <img class="card-img-top" src="/img/logos/GitHub-logo-W.png">
   <div class="card-body">
     <h5 class="card-title">Intro to GitHub</h5>
-    <a href="/programs/workshops/fa20/intro-github" class="btn btn-info">More info</a>
+    <a href="/programs/workshops/intro-github" class="btn btn-info">More info</a>
   </div>
 </div>
 </div>
