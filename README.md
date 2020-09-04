@@ -61,15 +61,16 @@ Then [personalize the site](https://sourcethemes.com/academic/docs/get-started/)
 
 **Please make sure you always pull, before committing or pushing to the repository!** :smile:
 
-We added branches for each Leadership Team member. When you are pushing changes, please make sure you are using **your respective branch**, instead of pushing to `master`. Even if you are making changes for another Team member.
+We will be using different branches for each Leadership Team member. When you are pushing changes, please make sure you are using **your respective branch**, instead of pushing to `master`.
 
 **If you are an Outside Collaborator, please create a new branch before pushing any changes!** 
 
 <br>
 
 When you are pushing to another branch, other than `master`, you won't be able to just type: `git push`.
-Instead you'll type: `git push origin <your-name>`.
+Instead you'll type: `git push origin <branch-name>`.
 
+To add a new new branch in the command line, type: `git checkout -b <branch-name>`.
 If you would like to see the contents of other branches, type: `git checkout <branch-name>`.
 
 <br>
