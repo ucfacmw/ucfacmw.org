@@ -163,3 +163,17 @@
   to = "https://forms.gle/zgCtJu5u553fMfGb8"
   status = 301
 # ===================================================================
+
+
+# Workshops
+[[ redirects ]]
+  from = "/zoom/workshops"
+  to = "https://ucf.zoom.us/j/92264317149"
+  status = 301
+  
+[[ redirects ]]
+  from = "/GitHub-workshop"
+  to = "https://forms.gle/HeA7igAU4mvxiumq5"
+  status = 301
+# ===================================================================
+
