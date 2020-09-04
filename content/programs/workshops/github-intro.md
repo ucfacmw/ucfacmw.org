@@ -3,6 +3,8 @@ title: Intro to GitHub
 
 # type: project
 
+summary: Come learn more about git and GitHub!
+
 authors:
 - pablo
 - chloe
