@@ -1,7 +1,7 @@
 ---
 title: Workshops Committee
 
-type: project
+# type: project
 
 authors:
 - pablo
