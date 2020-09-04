@@ -1,7 +1,7 @@
 ---
 title: Intro to GitHub
 
-type: project
+# type: project
 
 authors:
 - pablo

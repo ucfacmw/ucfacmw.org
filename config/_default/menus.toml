@@ -39,11 +39,11 @@
 #   url = "/social-media/"
 #   weight = 40
 
-[[ main ]]
-  name = "Programs"
-  parent = "activities"
-  url = "/programs/"
-  weight = 20
+# [[ main ]]
+#   name = "Programs"
+#   parent = "activities"
+#   url = "/programs/"
+#   weight = 20
 
 [[ main ]]
   name = "Resume Bank"
