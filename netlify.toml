@@ -137,6 +137,11 @@
   status = 301
 
 [[ redirects ]]
+  from = "/zoom/projects"
+  to = "https://ucf.zoom.us/j/97895446265"
+  status = 301
+
+[[ redirects ]]
   from = "/mentor"
   to = "https://forms.gle/16ntv4Janzf2yfpu6"
   status = 301
@@ -176,4 +181,3 @@
   to = "https://forms.gle/HeA7igAU4mvxiumq5"
   status = 301
 # ===================================================================
-
