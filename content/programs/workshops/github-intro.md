@@ -35,15 +35,17 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 {{< /alert >}}
 
-## GitHub Info:
 
-{{< alert info >}}
-Please add your GitHub username in this form so we can add you to the Workshops Team! :smile:
+<br>
 
-<a class="btn btn-light btn-lg" href="https://ucfacmw.org/GitHub-workshop" role="button">
-<i class="fas fa-file-alt" style="padding-right: 10px;"></i> GitHub Info</a>
+## Slide Deck
 
-{{< /alert >}}
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vS968PGaJZ8DLLbM4pWUNxE4weVhRWpq9KZh52n6ZiNibdjwiHLIObG1pXQVyaHhny8Aq3YYyO01vmI/embed?start=false&loop=false&delayms=3000" >}} 
 
+## Presentation - Part 1
 
-The workshop slide deck will be available 10 - 20 minutes before the meeting!
+{{< youtube zwUGh1DY91M >}}
+
+## Demo for Mac/Linux - Part 2
+
+{{< youtube wk2-dQoKics >}}
