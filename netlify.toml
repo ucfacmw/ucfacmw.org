@@ -130,15 +130,37 @@
   status = 301
 # ===================================================================
 
-# Committee Links
+# Zoom links
 [[ redirects ]]
-  from = "/projects-interest"
-  to = "https://forms.gle/krnP2kuqXPNcEAiw8"
+  from = "/zoom/gbm"
+  to = "https://ucf.zoom.us/j/91996682446"
+  status = 301
+
+[[ redirects ]]
+  from = "/zoom/workshops"
+  to = "https://ucf.zoom.us/j/92264317149"
+  status = 301
+
+[[ redirects ]]
+  from = "/zoom/acmw-events"
+  to = "https://ucf.zoom.us/j/95404856657"
   status = 301
 
 [[ redirects ]]
   from = "/zoom/projects"
   to = "https://ucf.zoom.us/j/97895446265"
+  status = 301
+
+[[ redirects ]]
+  from = "/zoom/game-knights"
+  to = "https://ucf.zoom.us/j/91996682446"
+  status = 301
+# ===================================================================
+
+# Committee Links
+[[ redirects ]]
+  from = "/projects-interest"
+  to = "https://forms.gle/krnP2kuqXPNcEAiw8"
   status = 301
 
 [[ redirects ]]
@@ -160,6 +182,18 @@
   from = "/dev-interest"
   to = "https://forms.gle/ZXrDgdDKnCJWgwTY6"
   status = 301
+
+[[ redirects ]]
+  from = "/GitHub-workshop"
+  to = "https://forms.gle/HeA7igAU4mvxiumq5"
+  status = 301
+# ===================================================================
+
+# ACM-W Events
+[[ redirects ]]
+  from = "/forms/internship-panel"
+  to = "https://forms.gle/R94uEFTFEE26Evnq6"
+  status = 301 
 # ===================================================================
 
 # Classmate Matcher Form
@@ -167,29 +201,4 @@
   from = "/find-classmates"
   to = "https://forms.gle/zgCtJu5u553fMfGb8"
   status = 301
-# ===================================================================
-
-
-# Workshops
-[[ redirects ]]
-  from = "/zoom/workshops"
-  to = "https://ucf.zoom.us/j/92264317149"
-  status = 301
-  
-[[ redirects ]]
-  from = "/GitHub-workshop"
-  to = "https://forms.gle/HeA7igAU4mvxiumq5"
-  status = 301
-# ===================================================================
-
-# ===================================================================
-[[ redirects ]]
-  from = "/forms/internship-panel"
-  to = "https://forms.gle/R94uEFTFEE26Evnq6"
-  status = 301
-
-[[ redirects ]]
-  from = "/zoom/acmw-events"
-  to = "https://ucf.zoom.us/j/95404856657"
-  status = 301  
 # ===================================================================
