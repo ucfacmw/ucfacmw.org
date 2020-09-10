@@ -187,4 +187,9 @@
   from = "/forms/internship-panel"
   to = "https://forms.gle/R94uEFTFEE26Evnq6"
   status = 301
+
+[[ redirects ]]
+  from = "/zoom/acmw-events"
+  to = "https://ucf.zoom.us/j/95404856657"
+  status = 301  
 # ===================================================================
