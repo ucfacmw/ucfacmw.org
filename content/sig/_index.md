@@ -54,8 +54,8 @@ As of right now, ACM & ACM-W don't have any SIGs, but we are currently trying to
 **If you are intersted in leading or joining a SIG, please fill the *SIG Interest Form* or contact us!** :star_struck:
 
 
-<a class="btn btn-primary btn-lg" href="https://acmw.netlify.app/sig/sig-interest/" role="button">
+<a class="btn btn-primary btn-lg" href="/sig/sig-interest/" role="button">
 <i class="fas fa-file-alt" style="padding-right: 10px;"></i>  SIG Interest Form</a>
 
-<a class="btn btn-primary btn-lg" href="https://acmw.netlify.app/#contact" role="button">
+<a class="btn btn-primary btn-lg" href="/contact" role="button">
 <i class="fas fa-envelope" style="padding-right: 10px;"></i>  Contact ACM & ACM-W</a>
