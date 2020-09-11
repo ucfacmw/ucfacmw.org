@@ -2,7 +2,9 @@
 title: Diversity in Computer Science
 weight: 5
 
-type: docs
+type: project
+
+abstract: "During this meeting we talked about the importance of Diveristy in Computer Science."
 
 menu:
   fa18:

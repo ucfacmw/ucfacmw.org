@@ -6,7 +6,7 @@ type: docs
 
 menu:
   fa18:
-    name: DWomen in Tech Panel
+    name: Women in Tech Panel
     parent: Fall 2018
     weight: 4
 
