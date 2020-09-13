@@ -153,7 +153,7 @@
 
 [[ redirects ]]
   from = "/zoom/game-knights"
-  to = "https://ucf.zoom.us/j/91996682446"
+  to = "https://ucf.zoom.us/j/94208185357"
   status = 301
 # ===================================================================
 
@@ -164,13 +164,13 @@
   status = 301
 
 [[ redirects ]]
-  from = "/mentor"
-  to = "https://forms.gle/16ntv4Janzf2yfpu6"
+  from = "/forms/mentorship-reception"
+  to = "https://forms.gle/ckgjs9Li8HPV5NH96"
   status = 301
 
 [[ redirects ]]
-  from = "/mentee"
-  to = "https://forms.gle/it9ksgix7CN1CRiE9"
+  from = "/contact/mentor-mentee"
+  to = "https://docs.google.com/spreadsheets/d/15MEWmHK-0zrUmwrk_bNuqHy5Xw86PKiNiXdRmejWnm4/edit?usp=sharing"
   status = 301
 
 [[ redirects ]]
