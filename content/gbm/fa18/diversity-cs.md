@@ -1,10 +1,9 @@
 ---
 title: Diversity in Computer Science
 weight: 5
+type: docs
 
-type: project
-
-abstract: "During this meeting we talked about the importance of Diveristy in Computer Science."
+abstract: "Diversity in the field of technology is important in ensuring that every kind of person and every kind of culture is being represented in the workplace. At this meeting, we discuss what diversity looks like right now and highlight some diverse engineers who are making waves in the field."
 
 menu:
   fa18:

@@ -1,8 +1,9 @@
 ---
 title: Arts & Crafts
 weight: 5
-
 type: docs
+
+abstract: "ACM-W hosts an Arts & Crafts event for our members! This is a great way to network with other members in a stress-free, non-academic envirnoment, and relax a bit before Finals Week."
 
 menu:
   sp19:

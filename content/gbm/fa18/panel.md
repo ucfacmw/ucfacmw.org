@@ -1,8 +1,9 @@
 ---
 title: Women in Tech Panel
 weight: 4
-
 type: docs
+
+abstract: "ACM-W hosts another panel consisting of professionals in the tech industry to answer your questions. Our panel includes engineers from Electronic Arts, Epsilon Systems Solutions, and Magic Leap."
 
 menu:
   fa18:

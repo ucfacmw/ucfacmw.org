@@ -1,8 +1,9 @@
 ---
 title: "Let’s Talk About It: Tech Ethics"
 weight: 4
-
 type: docs
+
+abstract: "Ethics in the field of tech can be a tricky subject. From using data to discriminate against certain people to the invasion of privacy to artificial intelligence, we discuss how ethics plays a major role in the usage of information."
 
 menu:
   sp19:

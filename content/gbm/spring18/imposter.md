@@ -1,8 +1,9 @@
 ---
 title: Imposter Syndrome
 weight: 4
-
 type: docs
+
+abstract: "Imposter syndrome is the feeling one can have of being a fraud or unqualified for the work they are already doing. Many of us experience this feeling and during this meeting, members discuss their experiences with it and how to overcome it."
 
 menu:
   sp18:

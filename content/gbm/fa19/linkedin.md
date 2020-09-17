@@ -3,6 +3,8 @@ title: Levaraging LinkedIn - Workshop
 weight: 3
 type: docs
 
+abstract: "Having a solid presence on LinkedIn can lead to important connections with recruiters and job opportunities. In our workshop for LinkedIn, we discuss what kind of information your profile should contain and how to get the most out of the platform."
+
 menu:
   fa19:
     name: Levaraging LinkedIn - Workshop

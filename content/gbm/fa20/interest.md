@@ -2,7 +2,9 @@
 title: "Interest Meeting"
 weight: 1
 
-type: project
+type: docs
+
+abstract: "At out first GBM of the 2020-2021 academic year, we discuss what ACM & ACM-W at UCF is and how we will be operating with the ongoing pandemic. We also discuss what the merger means for the future of the club, introduce leadership for this academic year, and provide details on all of our committees."
 
 authors:
 - chloe

@@ -1,8 +1,9 @@
 ---
 title: 1st Spring 2019 GBM
 weight: 1
-
 type: docs
+
+abstract: "ACM-W kicks off the spring semester with a discussion about socials, technical development events, and scholarships to get our members more involved and further their careers."
 
 menu:
   sp19:
