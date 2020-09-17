@@ -1,8 +1,9 @@
 ---
 title: All about Interviewing!
 weight: 3
-
 type: docs
+
+abstract: "ACM-W hosts a session where we provide both behavioral and technical interview advice to students looking to improve their interviewing abilities."
 
 menu:
   sp18:

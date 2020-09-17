@@ -3,6 +3,8 @@ title: 1st Spring 2020 GBM
 weight: 1
 type: docs
 
+abstract: "Our first GBM of 2020! We discuss what ACM-W is, what kinds of events we'll be holding this semester, and how to stay connected with us."
+
 menu:
   sp20:
     name: 1st Spring 2020 GBM

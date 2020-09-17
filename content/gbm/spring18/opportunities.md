@@ -1,8 +1,9 @@
 ---
 title: 1st ACM-W GBM - Opportunities in Computing
 weight: 1
-
 type: docs
+
+abstract: "The application process for positions in the tech field can be overwhelming, but understanding it can lead to securing that job you want! We discuss multiple events to attend, programs to join, and scholarships to apply for so that you can start that journey with a potential employer."
 
 menu:
   sp18:

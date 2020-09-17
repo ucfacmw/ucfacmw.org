@@ -1,8 +1,9 @@
 ---
 title: Ethics in Tech
 weight: 2
-
 type: docs
+
+abstract: "ACM-W brings up the topic of ethics in the field of tech and how important of a role it plays. From AI to Deep Fakes, ethics is a prevalent topic in the tech field and we're here to discuss it."
 
 menu:
   fa19:

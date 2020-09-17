@@ -1,8 +1,9 @@
 ---
 title: CS Technical Interviews
 weight: 2
-
 type: docs
+
+abstract: "Feeling uneasy about your technical interview skills? No problem! We provide tips and resources to help you get started or improve on your current interview skills, including the behavioral and technical aspects."
 
 menu:
   sp19:

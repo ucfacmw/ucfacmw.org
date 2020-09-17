@@ -1,8 +1,9 @@
 ---
 title: "ACM & ACM-W: 1st GBM Summer 2020"
 weight: 1
-
 type: docs
+
+abstract: "Our team discusses the merger between ACM and ACM-W, and what it means for the future of the club. Because of the merger, our club is going to be able to support even more committees for our members. 2nd Round Elections for the new leadership positions are now open!"
 
 menu:
   su20:

@@ -1,8 +1,9 @@
 ---
 title: Getting into research
 weight: 3
-
 type: docs
+
+abstract: "Research. What is it? Some of our board members and founders discuss their experience with research. Topics include what intrigued them in the first place to go into research, how they managed to get involved, and what kind of research they did."
 
 menu:
   sp19:

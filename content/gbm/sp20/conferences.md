@@ -3,6 +3,8 @@ title: Tech Conferences
 weight: 3
 type: docs
 
+abstract: "Our team gave a general overview on some of the popular tech conferences, and discussed what they have to offer and what you can gain from attending them. We also held a panel where some of our members shared their personal experiences with Grace Hopper Celebration (GHC), one of the more popular tech conferences."
+
 menu:
   sp20:
     name: Tech Conferences

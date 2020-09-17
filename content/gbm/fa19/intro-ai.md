@@ -3,13 +3,15 @@ title: Intro to AI - Workshop
 weight: 4
 type: docs
 
+abstract: "In collaboration with AI@UCF, ACM-W hosts an event meant to discuss what AI@UCF is all about, what opportunities are available for members, and how to join."
+
 menu:
   fa19:
     name: Intro to AI - Workshop
     parent: Fall 2019
     weight: 4
 
-date: 2019-11-06T17:00:00Z
+date: 2019-10-30T17:00:00Z
 ---
 
 ## This workshop was a collaboration with [AI@UCF](https://ucfai.org)! :smile:

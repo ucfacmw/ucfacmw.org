@@ -3,6 +3,8 @@ title: 1st Fall 2019 GBM
 weight: 1
 type: docs
 
+abstract: "ACM-W's first General Body Meeting for the 2019-2020 school year! We discuss what kind of organization ACM-W is, our new executive board, future events, and how to stay connected with us."
+
 menu:
   fa19:
     name: 1st Fall 2019 GBM

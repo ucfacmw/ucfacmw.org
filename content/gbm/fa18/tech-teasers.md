@@ -1,8 +1,9 @@
 ---
 title: Tech, Teasers and Tacos
 weight: 3
-
 type: docs
+
+abstract: "ACM-W hosts a fun social event for our members. Members are given puzzles to work on and prizes are awarded to teams with the most points. Details on the Facebook@UCF event, STEM Day, our ACM-W Photo Contest, and our T-Shirt Design Contest are also discussed."
 
 menu:
   fa18:

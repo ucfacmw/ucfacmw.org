@@ -3,6 +3,8 @@ title: Diversity and Inclusion in Tech
 weight: 4
 type: docs
 
+abstract: "We discuss diversity and inclusion in the tech field and why it's so important for success in a work environment."
+
 menu:
   sp20:
     name: Diversity and Inclusion in Tech

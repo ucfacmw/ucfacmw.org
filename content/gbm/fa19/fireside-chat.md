@@ -3,6 +3,8 @@ title: Fireside Chat with Dr. Elaine Weyuker
 weight: 5
 type: docs
 
+abstract: "ACM-W hosts a fireside chat with our special guest, Dr. Elaine Weyuker! Dr. Weyuker discusses her experience in the tech field and gives valuable insight from the field."
+
 menu:
   fa19:
     name: Fireside Chat with Dr. Elaine Weyuker

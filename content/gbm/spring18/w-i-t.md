@@ -1,8 +1,9 @@
 ---
 title: Women in Tech!
 weight: 5
-
 type: docs
+
+abstract: "Our team discusses why diversity in the tech field is important. We then go into prime examples of successful women and minorities who have pushed the field of tech in their own respective ways. Also, nominations are now open for the executive board for the next academic year so make sure to apply if you're interested!"
 
 menu:
   sp18:

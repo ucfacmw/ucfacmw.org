@@ -1,8 +1,9 @@
 ---
 title: 1st Fall GBM
 weight: 1
-
 type: docs
+
+abstract: "Our first meeting of the 2018-2019 academic year! We hosted a panel consisting of our leadership where we answer some of your questions regarding their experiences with internships."
 
 menu:
   fa18:

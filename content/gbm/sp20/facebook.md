@@ -3,6 +3,8 @@ title: Personal Branding Workshop with Facebook
 weight: 2
 type: docs
 
+abstract: "This is our Personal Branding Workshop hosted by a Facebook representative! We discuss what makes candidates stand out, what recruiters look for in candidates, and how to use social media to market your professional brand."
+
 menu:
   sp20:
     name: Personal Branding Workshop with Facebook
