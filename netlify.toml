@@ -169,6 +169,11 @@
   status = 301
 
 [[ redirects ]]
+  from = "/forms/project-pitches"
+  to = "https://docs.google.com/forms/d/e/1FAIpQLSdaiY9r-PBsjdlZsOhYj5W_hgT4rU5KzGtVOLh_YD-z2EX9rA/viewform?usp=sf_link"
+  status = 301
+
+[[ redirects ]]
   from = "/contact/mentor-mentee"
   to = "https://docs.google.com/spreadsheets/d/15MEWmHK-0zrUmwrk_bNuqHy5Xw86PKiNiXdRmejWnm4/edit?usp=sharing"
   status = 301
