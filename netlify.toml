@@ -150,6 +150,11 @@
   from = "/zoom/projects"
   to = "https://ucf.zoom.us/j/97895446265"
   status = 301
+  
+[[ redirects ]]
+  from = "/zoom/dev"
+  to = "https://ucf.zoom.us/j/94524431420"
+  status = 301
 
 [[ redirects ]]
   from = "/zoom/game-knights"
