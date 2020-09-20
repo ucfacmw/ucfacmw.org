@@ -164,11 +164,6 @@
   status = 301
 
 [[ redirects ]]
-  from = "/forms/mentorship-reception"
-  to = "https://forms.gle/ckgjs9Li8HPV5NH96"
-  status = 301
-
-[[ redirects ]]
   from = "/forms/project-pitches"
   to = "https://docs.google.com/forms/d/e/1FAIpQLSdaiY9r-PBsjdlZsOhYj5W_hgT4rU5KzGtVOLh_YD-z2EX9rA/viewform?usp=sf_link"
   status = 301
@@ -192,13 +187,6 @@
   from = "/GitHub-workshop"
   to = "https://forms.gle/HeA7igAU4mvxiumq5"
   status = 301
-# ===================================================================
-
-# ACM-W Events
-[[ redirects ]]
-  from = "/forms/internship-panel"
-  to = "https://forms.gle/R94uEFTFEE26Evnq6"
-  status = 301 
 # ===================================================================
 
 # Classmate Matcher Form
