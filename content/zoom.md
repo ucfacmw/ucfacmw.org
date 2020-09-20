@@ -16,11 +16,22 @@ menu:
 
 {{< /alert >}}
 
-# Fall 2020
-<br>
+# GBM
+Every other [Monday, from 6 p.m. - 7 p.m.](https://ucfacmw.org/calendar/)
+#### Meeting Link: https://ucfacmw.org/zoom/gbm
 
-#### Friday, September from 5 p.m. - 7 p.m.:
-#### [ACM & ACM-W: Intro to GitHub Workshop](https://ucfacmw.org/zoom/workshops)
+# ACM-W Events
+Every other [Friday, from 6 p.m. - 7 p.m.](https://ucfacmw.org/calendar/)
+#### Meeting Link: https://ucfacmw.org/zoom/acmw-events
 
-#### Monday, August 31st from 6 p.m. - 7 p.m.:
-#### [ACM & ACM-W: Fall 2020 Interest Meeting](https://ucfacmw.org/interest-meeting)
+# Workshops
+Every other [Friday, from 5 p.m. - 7 p.m.](https://ucfacmw.org/calendar/)
+#### Meeting Link: https://ucfacmw.org/zoom/workshops
+
+# Projects Check-In
+Every other [Sunday, from 8 p.m. - 9 p.m.](https://ucfacmw.org/calendar/)
+#### Meeting Link: https://ucfacmw.org/zoom/projects
+
+# Game Knights
+Every [Saturday, from 8 p.m. - 10 p.m.](https://ucfacmw.org/calendar/)
+#### Meeting Link: https://ucfacmw.org/zoom/game-knights
