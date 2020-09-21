@@ -200,3 +200,12 @@
   to = "https://forms.gle/zgCtJu5u553fMfGb8"
   status = 301
 # ===================================================================
+
+# Linktree redirect
+[[ redirects ]]
+  from = "/linktree"
+  to = "https://linktr.ee/UCFacmw"
+  status = 301
+# ===================================================================
+
+
