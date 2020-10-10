@@ -1,7 +1,6 @@
 ---
 title: Web & Mobile Development Committee
 
-#type: project
 
 authors:
 - alice
