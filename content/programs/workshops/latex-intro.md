@@ -1,17 +1,16 @@
 ---
 title: Intro to LaTeX
 
-# type: project
+type: project
 
-summary: "We will be going over the basics of learning LaTeX"
+summary: We will be going over the basics of learning LaTeX
 
 authors:
 - chloe
 
-menu:
-  programs:
 ---
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRAU-9hdGHc9KDVoGniL4itmFsYyWrhkFSYYfFfLIBjsez-CrpWb0GV2rXLgEEYitOENm3SJX8Ul9L-/embed?start=false&loop=false&delayms=3000" >}}
 
-If you are attending, or attended this workshop at KnightHacks, then you are probably here looking for the slide deck that was presented. No worries, it will be up and available, along with everything else provided, shortly after the workshop is over!
+Here is the [demo](https://www.overleaf.com/read/vdmgjzjvfxjy) that was given during the workshop.
 
-Here is the [demo](https://www.overleaf.com/read/vdmgjzjvfxjy) that will be given during the workshop.
+Here is the [practice template](https://www.overleaf.com/read/cgrgcgfhtdsr) for you all to use.
