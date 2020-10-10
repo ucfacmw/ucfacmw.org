@@ -1,7 +1,7 @@
 ---
 title: Intro to GitHub
 
-# type: project
+type: project
 
 summary: Come learn more about git and GitHub!
 

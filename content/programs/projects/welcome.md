@@ -1,9 +1,9 @@
 ---
-title: "Welcome"
+title: "Projects Committee: Welcome!"
 
 # type: project
 
-summary: Our first meeting of Fall 2020 for the Projects Committee! 
+summary: "Our first meeting of Fall 2020 for the Projects Committee!" 
 
 authors:
 - dustin
