@@ -7,10 +7,6 @@ summary: "For this workshop, we joined hands with KnightHacks to bring you an am
 
 authors:
 - pablo
-
-
-menu:
-  programs:
 ---
 ## Sign Up:
 

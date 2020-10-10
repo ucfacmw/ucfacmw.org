@@ -9,9 +9,6 @@ authors:
 - pablo
 - chloe
 - annabel
-
-menu:
-  programs:
 ---
 ## Sign Up:
 

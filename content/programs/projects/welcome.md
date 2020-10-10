@@ -7,9 +7,6 @@ summary: "Our first meeting of Fall 2020 for the Projects Committee!"
 
 authors:
 - dustin
-
-menu:
-  programs:
 ---
 ## Sign Up:
 
