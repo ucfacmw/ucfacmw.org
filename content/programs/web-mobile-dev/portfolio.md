@@ -8,9 +8,6 @@ summary: Information on the Portfolio App
 authors:
 - alice
 - steven
-
-menu:
-  programs:
 ---
 <br>
 Employers love to see portfolio sites from their applicants. Build and host a portfolio website that showcases you and your accomplishments.

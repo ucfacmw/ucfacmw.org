@@ -8,9 +8,6 @@ summary: Our first meeting of Fall 2020 for the Web & Mobile Development Committ
 authors:
 - alice
 - steven
-
-menu:
-  programs:
 ---
 ## Sign Up:
 
