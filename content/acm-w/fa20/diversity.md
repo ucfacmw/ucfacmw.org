@@ -4,7 +4,7 @@ weight: 1
 
 type: docs
 
-abstract: "Come learn about the gender and racial disparities within the tech field and how they can be fixed through diversity and incluion."
+abstract: "Come learn about the gender and racial disparities within the tech field and how they can be fixed through diversity and inclusion."
 
 authors:
 - chloe
