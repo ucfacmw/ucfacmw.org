@@ -1,13 +1,35 @@
 ---
-title: "Event: Welcome!"
+title: "She Codes"
+weight: 1
 
-# type: project
+type: docs
 
-summary: "Our first meeting of Fall 2020 for the Projects Committee!" 
+abstract: "ACM & ACM-W at UCF partner with Facebook to host an event geared towards supporting women in the tech field."
 
 authors:
+- chloe
+- annabel
+- indira
+- michaela
+- emilia
+- steven
 - dustin
+- komila
+- pablo
+- jeff
+- brooke
+- suma
+- alice
+
+menu:
+  fa20:
+    name: She Codes
+    parent: Fall 2020
+    weight: 1
+
+date: 2020-10-19T18:00:00Z
 ---
+
 ## Sign Up:
 
 {{< alert info >}}
@@ -30,6 +52,6 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 {{< /alert >}}
 
-## Slide Deck
+<br>
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSxhBCByeDWu7ASRv238NoC9AW-6BCfYIFHvCMkVE-fjh5cjHe5foWp9fJXgew0h2LSx60vbLyE5Bvp/embed?start=false&loop=false&delayms=3000" >}} 
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRVbQaMh-Dd6GITpPklM_x8gt_8Cs1SIdOXbct6CBrM-zc1cx4UprIU8rn0HLM0QsLteQFGIoCuCgEs/embed?start=false&loop=false&delayms=3000" >}}

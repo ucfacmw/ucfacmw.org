@@ -24,6 +24,7 @@ organizations:
 # Add more/change interests if you'd like
 interests:
 - Project Development
+- Full Stack Development
 - Artificial Intelligence
 
 # Replace with proper information

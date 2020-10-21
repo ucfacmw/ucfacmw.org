@@ -25,7 +25,7 @@ menu:
   fa20:
     name: Ethics in Tech
     parent: Fall 2020
-    weight: 1
+    weight: 2
 
 date: 2020-09-21T18:00:00Z
 ---
