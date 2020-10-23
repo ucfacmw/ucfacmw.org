@@ -19,3 +19,4 @@ The idea can also evolve to be able to interpret American Sign Language, eventua
 - Karan Patel
 - Mudit Jain
 - Kellen Danielson
+- Cydni Turner
