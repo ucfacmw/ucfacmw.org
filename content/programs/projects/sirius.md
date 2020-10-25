@@ -9,12 +9,12 @@ authors:
 - dustin
 ---
 
-A Rover that can be controlled wirelessly using an X-box controller
+Sirius is a rover that can be controlled wirelessly using an Xbox controller
 
 ## Members
 
+- Ashiqul Jeem
+- Daniel Posada
 - Brian
 - Joeseph
 - Camilo
-- Daniel Posada
-- Ashiqul Jeem

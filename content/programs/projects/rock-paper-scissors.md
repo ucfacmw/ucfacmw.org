@@ -16,7 +16,7 @@ The idea can also evolve to be able to interpret American Sign Language, eventua
 
 ## Members
 
-- Karan Patel
-- Mudit Jain
 - Kellen Danielson
+- Mudit Jain
+- Karan Patel
 - Cydni Turner

@@ -16,7 +16,7 @@ If we finished that we could go so far as to make Ozone be able to input events 
 
 ## Members
 
-- Eddie Salvador
-- Weiyi Chen
-- Taniya Shaffer
 - Ann Binus
+- Weiyi Chen
+- Eddie Salvador
+- Taniya Shaffer

@@ -9,11 +9,12 @@ authors:
 - dustin
 ---
 
-TEMP BLURB (UPDATE)
+This AI Powered Handwriting Recognition Project aims to create a tool allowing for the recognition, parsing, and analysis of handwritten text.
 
 ## Members
 
-- Alice Yu
 - Aidan Ahern
-- Atandra Mahalder
 - Harrison Keating
+- Atandra Mahalder
+- Alice Yu
+
