@@ -1,13 +1,28 @@
 ---
-title: "Event: Welcome!"
+title: Diversity and Inclusion
+weight: 1
 
-# type: project
+type: docs
 
-summary: "Our first meeting of Fall 2020 for the Projects Committee!" 
+abstract: "Come learn about the gender and racial disparities within the tech field and how they can be fixed through diversity and inclusion."
 
 authors:
-- dustin
+- chloe
+- annabel
+- komila
+- brooke
+- jin
+
+
+menu:
+  fa2020:
+    name: Diversity and Inclusion
+    parent: Fall 2020
+    weight: 1
+
+date: 2020-09-25T18:00:00Z
 ---
+
 ## Sign Up:
 
 {{< alert info >}}
@@ -30,6 +45,6 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 {{< /alert >}}
 
-## Slide Deck
+<br>
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSxhBCByeDWu7ASRv238NoC9AW-6BCfYIFHvCMkVE-fjh5cjHe5foWp9fJXgew0h2LSx60vbLyE5Bvp/embed?start=false&loop=false&delayms=3000" >}} 
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQVTEIPJ0ecS29_b3vWEhjLy5kwP1SXOQuMsSb-EC0vzroJYApDmmGhNvnDB1Z2PYo3U7C1krehdE_K/embed?start=false&loop=false&delayms=3000" >}}
