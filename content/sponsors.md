@@ -8,9 +8,16 @@ menu:
     weight: 25
     parent: home
 
-photos:
+goldphotos:
+- northrop.jpg
+- disney.jpg
+
+silverphotos:
+- lockheed-martin.jpg
+
+allyphotos:
+- google.jpg
 - ODI.png
-- northrop-grumman.png
 
 date: 2020-06-02T17:00:00Z
 ---

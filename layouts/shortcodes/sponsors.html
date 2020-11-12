@@ -1,10 +1,35 @@
+<h2> Gold Sponsors</h2>
 <div class="card-columns">
-    {{ $photos := .Page.Params.photos }}
-    {{- range $photo := $photos -}}
+    {{ $goldphotos := .Page.Params.goldphotos }}
+    {{- range $photo := $goldphotos -}}
         <div class="card">
-          <a href="/img/sponsors/{{ $photo }}">
-            <img src="/img/sponsors/{{ $photo }}" class="img-fluid">
+          <a href="/img/sponsors/gold/{{ $photo }}">
+            <img src="/img/sponsors/gold/{{ $photo }}" class="img-fluid">
           </a>
         </div>
+        {{- end -}}
+</div>
+
+<h2> Silver Sponsors</h2>
+<div class="card-columns">
+  {{ $silverphotos := .Page.Params.silverphotos }}
+    {{- range $photo := $silverphotos -}}
+      <div class="card">
+        <a href="/img/sponsors/silver/{{ $photo }}">
+          <img src="/img/sponsors/silver/{{ $photo }}" class="img-fluid">
+          </a>
+      </div>
+    {{- end -}}
+</div>
+
+<h2> Ally Sponsors </h2>
+<div class="card-columns">
+  {{ $allyphotos := .Page.Params.allyphotos }}
+    {{- range $photo := $allyphotos -}}
+      <div class="card">
+        <a href="/img/sponsors/ally/{{ $photo }}">
+          <img src="/img/sponsors/ally/{{ $photo }}" class="img-fluid">
+          </a>
+      </div>
     {{- end -}}
 </div>
