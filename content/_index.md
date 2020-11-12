@@ -50,7 +50,7 @@ title: Home
               <p class="card-text text-center"> ACM & ACM-W at UCF also periodically invites guest speakers to make
                 presentations at UCF for our collective enrichment. ACM & ACM-W members are encouraged to attend these
                 presentations, as are any interested community members. Members are also encouraged to reach out if they
-                desire a specific speaker to come to the University.!</p>
+                desire a specific speaker to come to UCF!</p>
           </div>
         </div>
       </div>
