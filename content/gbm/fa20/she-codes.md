@@ -22,19 +22,6 @@ menu:
 
 date: 2020-10-19T18:00:00Z
 ---
-
-## Sign Up:
-
-{{< alert info >}}
-Please Sign Up, if you are a new member, or haven't sign up yet!
-
-If you signed up during the Summer, you don't need to do it again! :smile:
-
-<a class="btn btn-light btn-lg" href="https://ucfacmw.org/sign-up" role="button">
-<i class="fas fa-file-alt" style="padding-right: 10px;"></i>  Sign Up!</a>
-
-{{< /alert >}}
-
 ## Sign In:
 
 {{< alert info >}}
@@ -44,6 +31,9 @@ Please Sign In, if you attended, or are attending this event! :smile:
 <i class="fas fa-file-alt" style="padding-right: 10px;"></i>  Sign In!</a>
 
 {{< /alert >}}
+<br>
+
+{{< youtube 6QED3RANTKo >}}
 
 <br>
 
@@ -51,3 +41,5 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 ## Facebook Announcements
 Are your graduating in 2023 and have interested in Data Analytics? Learn more [here](https://www.facebook.com/careers/fbuanalytics)
+
+Join us for our weekly live “**Crush Your Coding Interview**” (CYCI) sessions which take place **Thursdays at 3pm PT/6pm ET**! These live sessions will provide insight on what to expect during your interview and how to best prepare. Be sure to block your calendar so you don’t miss it! [Zoom Link](​​https://fb.zoom.us/j/92469055641) ​​(**Passcode**: 968421)

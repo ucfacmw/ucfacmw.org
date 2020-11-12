@@ -47,4 +47,8 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 <br>
 
+{{< youtube RxNudZFSoy0 >}}
+
+<br>
+
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vS6Sb5qEBTIZIampVC8vu4uUUPo6deV8PXw0a3kaFueYfOPuQQp-F2cyNpVUPEh5lJ-TimMuMf_omD8/embed?start=false&loop=false&delayms=3000" >}}
