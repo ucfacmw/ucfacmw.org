@@ -10,22 +10,15 @@ authors:
 - chloe
 - annabel
 - indira
-- michaela
 - emilia
-- steven
-- dustin
-- komila
 - pablo
-- jeff
-- brooke
-- suma
-- alice
+
 
 menu:
   fa20:
     name: She Codes
     parent: Fall 2020
-    weight: 1
+    weight: 3
 
 date: 2020-10-19T18:00:00Z
 ---
@@ -55,3 +48,6 @@ Please Sign In, if you attended, or are attending this event! :smile:
 <br>
 
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRVbQaMh-Dd6GITpPklM_x8gt_8Cs1SIdOXbct6CBrM-zc1cx4UprIU8rn0HLM0QsLteQFGIoCuCgEs/embed?start=false&loop=false&delayms=3000" >}}
+
+## Facebook Announcements
+Are your graduating in 2023 and have interested in Data Analytics? Learn more [here](https://www.facebook.com/careers/fbuanalytics)
