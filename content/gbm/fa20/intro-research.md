@@ -33,4 +33,8 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 <br>
 
+{{< youtube Ef26YP9alNk >}}
+
+<br>
+
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQH3Gu_sEXr-9bKvQX9XoowKW6pyS8HYA3yk62pWMT8DHj_GReq-VFegiuq09uOYgvtVC0x9d0DaRTS/embed?start=false&loop=false&delayms=3000" >}}
