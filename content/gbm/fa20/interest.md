@@ -25,7 +25,7 @@ menu:
   fa20:
     name: Interest Meeting
     parent: Fall 2020
-    weight: 3
+    weight: 1
 
 date: 2020-08-31T18:00:00Z
 ---
