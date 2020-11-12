@@ -7,19 +7,12 @@ type: docs
 abstract: "At our 2nd GBM for this semester, we bring up the topic of ethics within the tech field. This includes content moderation on online platforms, AI, data privacy, and more!"
 
 authors:
-- chloe
 - annabel
 - indira
-- michaela
+- chloe
 - emilia
-- steven
-- dustin
-- komila
 - pablo
-- jeff
-- brooke
-- suma
-- alice
+
 
 menu:
   fa20:
