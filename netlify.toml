@@ -114,6 +114,22 @@
   from = "/recognition"
   to = "https://forms.gle/Vc5tzCk2ia8LUUnq6"
   status = 301
+  
+[[ redirects ]]
+  from = "/library-catalog"
+  to = "https://drive.google.com/file/d/1zHJwIM-tADmKka-pWVGplcFNBHnFAAvU/view?usp=sharing"
+  status = 301
+  
+[[ redirects ]]
+  from = "/forms/library-access"
+  to = "https://forms.gle/GVJftCHdV6Fawmot9"
+  status = 301
+  
+[[ redirects ]]
+  from = "/library"
+  to = "https://drive.google.com/drive/folders/1kAnhTuDJSoqLVcyzZCnJeDjcReYk3kJn?usp=sharing"
+  status = 301
+
 # ===================================================================
 
 # Fall 2020 - Sponsor/RSO Collab. Form
