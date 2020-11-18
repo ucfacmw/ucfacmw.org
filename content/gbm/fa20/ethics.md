@@ -1,6 +1,6 @@
 ---
 title: "Ethics in Tech"
-weight: 1
+
 
 type: docs
 

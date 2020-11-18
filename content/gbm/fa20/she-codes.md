@@ -1,6 +1,6 @@
 ---
 title: "She Codes"
-weight: 1
+
 
 type: docs
 

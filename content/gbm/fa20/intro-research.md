@@ -1,6 +1,6 @@
 ---
 title: "Intro to Research"
-weight: 1
+
 
 type: docs
 
