@@ -180,6 +180,16 @@
 
 # Committee Links
 [[ redirects ]]
+  from = "/forms/mentee"
+  to = "https://forms.gle/kYDtzyY2tnCB3rNd7"
+  status = 301
+
+[[ redirects ]]
+  from = "/forms/mentor"
+  to = "https://forms.gle/vVUD3waBKkSmswhN8"
+  status = 301
+  
+[[ redirects ]]
   from = "/projects-interest"
   to = "https://forms.gle/krnP2kuqXPNcEAiw8"
   status = 301
