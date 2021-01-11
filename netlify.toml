@@ -140,9 +140,16 @@
 # ===================================================================
 
 # Interest Meeting Redirect
+
+# This needs to be changed to fa20-interest-meeting
 [[ redirects ]]
   from = "/interest-meeting"
   to = "https://youtu.be/5Xvu8LUmhv0"
+  status = 301
+  
+[[ redirects ]]
+  from = "/zoom/interest-meeting"
+  to = "https://ucf.zoom.us/j/97905924733"
   status = 301
 # ===================================================================
 
