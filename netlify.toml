@@ -183,6 +183,11 @@
   from = "/zoom/game-knights"
   to = "https://ucf.zoom.us/j/94208185357"
   status = 301
+  
+[[ redirects ]]
+  from = "/zoom/sigact"
+  to = "https://ucf.zoom.us/j/97888623031"
+  status = 301
 # ===================================================================
 
 # Committee Links
