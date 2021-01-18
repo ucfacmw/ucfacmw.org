@@ -45,13 +45,14 @@ UCF used to have 6 SIGs:
 {{< details summary="**What happened to them? :open_mouth: Can I still join one? :monocle_face:**" >}}
 A few years ago, some of the SIGs separated from ACM and became their own RSOs at UCF. 
 
-As of right now, ACM & ACM-W don't have any SIGs, but we are currently trying to start them up again!
+As of right now, ACM & ACM-W have one SIG:
+- SIGACT (Algorithms and Computer Theory)
 {{< /details >}}
 
 {{< /alert >}}
 
 
-**If you are intersted in leading or joining a SIG, please fill the *SIG Interest Form* or contact us!** :star_struck:
+**If you are interested in leading or joining a SIG, please fill the *SIG Interest Form* or contact us!** :star_struck:
 
 
 <a class="btn btn-primary btn-lg" href="/sig/sig-interest/" role="button">
