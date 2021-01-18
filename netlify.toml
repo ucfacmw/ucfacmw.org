@@ -51,7 +51,12 @@
   from = "/discord"
   to = "https://discord.gg/7QHunCM"
   status = 301
-
+  
+[[ redirects ]]
+  from = "/sigact/discord"
+  to = "https://discord.gg/67pG49uV4Q"
+  status = 301
+  
 [[ redirects ]]
   from = "/twitter"
   to = "https://twitter.com/ucfacmw"
