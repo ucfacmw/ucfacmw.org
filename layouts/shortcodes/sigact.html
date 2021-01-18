@@ -1,0 +1,10 @@
+<div class="card-columns">
+    {{ $logo := .Page.Params.logo }}
+    {{- range $photo := $logo -}}
+        <div class="card">
+          <a href="/img/logos/{{ $photo }}">
+            <img src="/img/logos/{{ $photo }}" class="img-fluid">
+          </a>
+        </div>
+        {{- end -}}
+</div>
