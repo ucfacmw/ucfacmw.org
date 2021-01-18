@@ -52,7 +52,7 @@ As of right now, ACM & ACM-W have one SIG:
 {{< /alert >}}
 
 
-**If you are intersted in leading or joining a SIG, please fill the *SIG Interest Form* or contact us!** :star_struck:
+**If you are interested in leading or joining a SIG, please fill the *SIG Interest Form* or contact us!** :star_struck:
 
 
 <a class="btn btn-primary btn-lg" href="/sig/sig-interest/" role="button">
