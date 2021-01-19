@@ -235,6 +235,12 @@
   from = "/GitHub-workshop"
   to = "https://forms.gle/HeA7igAU4mvxiumq5"
   status = 301
+  
+[[ redirects ]]
+  from = "/spending-survey"
+  to = "https://forms.gle/f7SXKMJwdvoHaASi6"
+  status = 301
+  
 # ===================================================================
 
 # Classmate Matcher Form
