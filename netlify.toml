@@ -197,13 +197,8 @@
 
 # Committee Links
 [[ redirects ]]
-  from = "/forms/mentee"
-  to = "https://forms.gle/kYDtzyY2tnCB3rNd7"
-  status = 301
-
-[[ redirects ]]
-  from = "/forms/mentor"
-  to = "https://forms.gle/vVUD3waBKkSmswhN8"
+  from = "/forms/mentorship-rsvp"
+  to = "https://forms.gle/z3hM76bLdVAcmRTS6"
   status = 301
   
 [[ redirects ]]
@@ -218,7 +213,7 @@
 
 [[ redirects ]]
   from = "/contact/mentor-mentee"
-  to = "https://docs.google.com/spreadsheets/d/15MEWmHK-0zrUmwrk_bNuqHy5Xw86PKiNiXdRmejWnm4/edit?usp=sharing"
+  to = "https://docs.google.com/spreadsheets/d/1kiJtd-IHhdqjQq2vKZWNP-FEQUu0IG4SOs8ZxBB4R3k/edit?usp=sharing"
   status = 301
 
 [[ redirects ]]
