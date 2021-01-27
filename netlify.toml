@@ -207,8 +207,8 @@
   status = 301
 
 [[ redirects ]]
-  from = "/forms/project-pitches"
-  to = "https://docs.google.com/forms/d/e/1FAIpQLSdaiY9r-PBsjdlZsOhYj5W_hgT4rU5KzGtVOLh_YD-z2EX9rA/viewform?usp=sf_link"
+  from = "/forms/project-interest"
+  to = "https://forms.gle/UGpkHqXHEUAkH2aJA"
   status = 301
 
 [[ redirects ]]
