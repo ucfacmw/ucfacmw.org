@@ -1,52 +1,37 @@
-<!-- ---
+---
 # Display name
-title: Dr. LeeAnn Roberts
-weight: 1
-
+title: Ashley Hart
+weight: 2
 # Username (this should match the folder name)
 authors:
-- roberts
+- ashley
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ACM-W Advisor
+role: SIGACT - Vice President
 
 # Organizations/Affiliations
 organizations:
-- name: Adjunct Professor, Interim Director of Diversity & Inclusion - CECS
-  url: https://diversity.cecs.ucf.edu/
+- name: ACM & ACM-W
+  url: https://ucfacmw.org/sig/sigact/
 - name: University of Central Florida
-
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-
+ 
 # Add more/change interests if you'd like
-# interests:
-# - 
-
+interests:
+- Computer Theory
+- Quantum Computing
 
 # Replace with proper information
 education:
   courses:
-  - course: Ed.D. Educational Leadership
+  - course: BS in Computer Science
     institution: University of Central Florida
-    year: 2016
-  - course: Graduate Certificate, Emergency Management & Homeland Security
-    institution: University of Central Florida
-    year: 2012
-  - course: MPA Public Administration
-    institution: University of Central Florida
-    year: 2012
-  - course: BA Radio/Television
-    institution: University of Central Florida
-    year: 2010
-  - course: AA Mass Communication
-    institution: University of South Florida
-    year: 2009
-
+    # year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,10 +55,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:leeann.roberts@ucf.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/dr-leeann-roberts-31421aa6/
+  link: 'mailto:sigact@ucfacmw.org'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -92,16 +77,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Advisors
+- SIGACT
 
 # Add your biography below the ---
 ---
-
-My interests include: 
-- Social Justice & Advocacy
-- Major & Career Exploration
-- Advancing Women in STEM
-- First-Year Experience of College Students
-- Advising, Mentoring & Coaching in Academia
-- Diversity, Equity & Inclusion in Higher Education
-- Recruitment & Persistence of Underrepresented Groups in STEM -->
+**Fun facts:** I love video games, art, writing and music!

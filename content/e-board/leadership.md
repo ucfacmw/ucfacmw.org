@@ -9,7 +9,7 @@ title = "Meet the Team"
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Officers", "Advisors",
+  user_groups = ["Officers", "SIGACT", "Advisors",
   "Officers 2019 - 2020", 
   "ACM-W Founders",]
 
@@ -30,8 +30,8 @@ title = "Meet the Team"
   # color = "navy"
   
   # Background gradient.
-    gradient_start = "#013d52"
-    gradient_end = "#5a2f55"
+    # gradient_start = "#013d52"
+    # gradient_end = "#5a2f55"
 
   
   # Background image.

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Zoom Meeting Links
 
 type: project
@@ -8,8 +8,8 @@ menu:
     name: Zoom
     weight: 26
     parent: activities
----
-
+--- -->
+<!-- 
 # GBM
 Every other [Monday, from 6 p.m. - 7 p.m.](https://ucfacmw.org/calendar/)
 #### Meeting Link: https://ucfacmw.org/zoom/gbm
@@ -31,4 +31,4 @@ Every other [Saturday, from 8 p.m. - 10 p.m.](https://ucfacmw.org/calendar/)
 #### On [Discord](https://ucfacmw.org/discord)
 # Game Knights
 Every other [Saturday, from 8 p.m. - 10 p.m.](https://ucfacmw.org/calendar/)
-#### On [Discord](https://ucfacmw.org/discord)
+#### On [Discord](https://ucfacmw.org/discord) -->
