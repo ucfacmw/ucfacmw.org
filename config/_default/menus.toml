@@ -27,6 +27,12 @@
   url = "/"
   weight = 10
 
+[[ main ]]
+  name = "Important Links"
+  parent = "home"
+  url = "https://ucfacmw.org/linktree"
+  weight = 30
+
 # [[ main ]]
 #   name = "About Us"
 #   parent = "home"
