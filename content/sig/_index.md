@@ -46,7 +46,7 @@ A few years ago, some of the SIGs separated from ACM and became their own RSOs a
 
 As of right now, ACM & ACM-W have two SIGs:
 - [SIGACT](https://ucfacmw.org/sig/sigact/) (Algorithms and Computer Theory)
-- [SIGGRAPH]()
+- [SIGGRAPH](https://discord.gg/hPJ5ar9FVg)
 {{< /details >}}
 
 {{< /alert >}}
