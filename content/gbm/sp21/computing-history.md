@@ -19,7 +19,7 @@ menu:
     parent: Spring 2021
     weight: 2
 
-date: 2021-02-1T18:00:00Z
+date: 2021-02-01T18:00:00Z
 ---
 ## Sign In:
 
