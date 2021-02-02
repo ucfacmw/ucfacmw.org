@@ -1,8 +1,6 @@
 ---
 title: ACM & ACM-W SIGs
 
-type: docs
-
 menu:
   main:
     name: SIG
@@ -36,6 +34,7 @@ UCF used to have 6 SIGs:
 - SIGCSE (Programming Beginners)
 - SIGBED (Embedded Systems)
 - SIGW (Women in Tech) presently known as [ACM-W](https://ucfacmw.org/)
+
 {{< /details >}}
 
 {{< /alert >}}
@@ -45,8 +44,9 @@ UCF used to have 6 SIGs:
 {{< details summary="**What happened to them? :open_mouth: Can I still join one? :monocle_face:**" >}}
 A few years ago, some of the SIGs separated from ACM and became their own RSOs at UCF. 
 
-As of right now, ACM & ACM-W have one SIG:
-- SIGACT (Algorithms and Computer Theory)
+As of right now, ACM & ACM-W have two SIGs:
+- [SIGACT](https://ucfacmw.org/sig/sigact/) (Algorithms and Computer Theory)
+- [SIGGRAPH]()
 {{< /details >}}
 
 {{< /alert >}}
@@ -55,8 +55,8 @@ As of right now, ACM & ACM-W have one SIG:
 **If you are interested in leading or joining a SIG, please fill the *SIG Interest Form* or contact us!** :star_struck:
 
 
-<a class="btn btn-primary btn-lg" href="/sig/sig-interest/" role="button">
-<i class="fas fa-file-alt" style="padding-right: 10px;"></i>  SIG Interest Form</a>
+<!-- <a class="btn btn-primary btn-lg" href="/sig/sig-interest/" role="button"> -->
+<!-- <i class="fas fa-file-alt" style="padding-right: 10px;"></i>  SIG Interest Form</a> -->
 
-<a class="btn btn-primary btn-lg" href="/contact" role="button">
-<i class="fas fa-envelope" style="padding-right: 10px;"></i>  Contact ACM & ACM-W</a>
+<!-- <a class="btn btn-primary btn-lg" href="/contact" role="button"> -->
+<!-- <i class="fas fa-envelope" style="padding-right: 10px;"></i>  Contact ACM & ACM-W</a> -->
