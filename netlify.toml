@@ -193,6 +193,12 @@
   from = "/zoom/sigact"
   to = "https://ucf.zoom.us/j/97218838167"
   status = 301
+  
+[[ redirects ]]
+  from = "/zoom/book-club"
+  to = "https://ucf.zoom.us/j/93896991393"
+  status = 301
+  
 # ===================================================================
 
 # Committee Links
