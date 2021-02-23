@@ -32,4 +32,4 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 <br>
 
-To watch the Women YouTubers in Tech Panel please click [here](https://ucf.zoom.us/rec/share/iAK5CgJkPMusE3F-CqJ10qgxrvqMkQ3vYBNUjYJen4QoeMcqF29jOTSJmdptWFoe.7Hpgvdi92E3dbE6x). We will be uploading it to YouTube shortly! Thank you for your patience! :smile:
+{{< youtube O4aiwFX8wbw >}}
