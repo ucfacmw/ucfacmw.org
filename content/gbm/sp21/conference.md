@@ -32,6 +32,9 @@ Please Sign In, if you attended, or are attending this event! :smile:
 {{< /alert >}}
 
 <br>
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRQ_DEGCrI2bq-BP5_DvJX2y8v10srXOSwEEhGRUOBcTZZoYdg1Pw8tbQLh8j9uswEMMTmUUjfbGaXS/embed?start=false&loop=false&delayms=3000" >}}
 
-To watch the Conference Panel please click [here](https://ucf.zoom.us/rec/share/R7vk24eFg0YKaPSK7qH48kXJblkRK_NsH8fz5ZDQiw2xAO9RuTCiSCy33EAGh4mv.nmLooBo6CBAJaxuy). We will be uploading it to YouTube shortly! Thank you for your patience! :smile:
+{{< youtube mTBJ29BJfAQ >}}
+
+<br>
+
+<!-- {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRQ_DEGCrI2bq-BP5_DvJX2y8v10srXOSwEEhGRUOBcTZZoYdg1Pw8tbQLh8j9uswEMMTmUUjfbGaXS/embed?start=false&loop=false&delayms=3000" >}} -->

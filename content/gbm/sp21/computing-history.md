@@ -32,6 +32,9 @@ Please Sign In, if you attended, or are attending this event! :smile:
 {{< /alert >}}
 
 <br>
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRQ_DEGCrI2bq-BP5_DvJX2y8v10srXOSwEEhGRUOBcTZZoYdg1Pw8tbQLh8j9uswEMMTmUUjfbGaXS/embed?start=false&loop=false&delayms=3000" >}}
 
-To watch the History of Computing please click [here](https://ucf.zoom.us/rec/share/u7qomdaYELVwNXRL0YqeSb3pfe9pNt6ngUP1GaYb8fBZCJ187dVTOUz27v0mhT6h.hYXVO1YNdw2cwQdB). We will be uploading it to YouTube shortly! Thank you for your patience! :smile:
+{{< youtube 2Tmg1QE7XkU >}}
+
+<br>
+
+<!-- {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vRQ_DEGCrI2bq-BP5_DvJX2y8v10srXOSwEEhGRUOBcTZZoYdg1Pw8tbQLh8j9uswEMMTmUUjfbGaXS/embed?start=false&loop=false&delayms=3000" >}} -->

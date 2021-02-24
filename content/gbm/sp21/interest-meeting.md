@@ -39,6 +39,11 @@ Please Sign In, if you attended, or are attending this event! :smile:
 {{< /alert >}}
 
 <br>
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTN6v1oBAg5o4KPp28gVNQVajRZm8CLPhvq_vF45JEoR4oKprEHZCJnwdp0ho4rr6tEZ2OrsQo62pRo/embed?start=false&loop=false&delayms=3000" >}}
 
-To watch the Interest Meeting please click [here](https://ucf.zoom.us/rec/share/P1BG2Iubwj3FP6W7UGFUuGkSjoFVbsSIb1CRJGLuTvImdc5Ou5x5NbrdQ3B8cTo2.lXJECA9JWSCEkask). We will be uploading it to YouTube shortly! Thank you for your patience! :smile:
+{{< youtube 6kr_WOgP3zk >}}
+
+<br>
+
+{{/*
+< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTN6v1oBAg5o4KPp28gVNQVajRZm8CLPhvq_vF45JEoR4oKprEHZCJnwdp0ho4rr6tEZ2OrsQo62pRo/embed?start=false&loop=false&delayms=3000" >
+*/}}

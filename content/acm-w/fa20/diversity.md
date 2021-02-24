@@ -1,6 +1,6 @@
 ---
 title: Diversity and Inclusion
-weight: 1
+weight: 2
 
 type: docs
 
@@ -18,7 +18,7 @@ menu:
   fa2020:
     name: Diversity and Inclusion
     parent: Fall 2020
-    weight: 1
+    weight: 2
 
 date: 2020-09-25T18:00:00Z
 ---

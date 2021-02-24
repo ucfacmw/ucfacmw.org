@@ -30,8 +30,8 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 <br>
 
-The slide deck for this event will be available shortly!
+{{< youtube zdpguK5vV4g >}}
 
 <br>
 
-To watch the Women in Tech event please click [here](https://ucf.zoom.us/rec/share/yOF3fnGU4Zuq7__rQ3l3Mr1iHFfvYN-PqKNtmD81IM9wpFgra68xtak84Ext1AIZ.6s7lQAWOkVxq1nBS). We will be uploading it to YouTube shortly! Thank you for your patience! :smile:
+The slide deck for this event will be available shortly!

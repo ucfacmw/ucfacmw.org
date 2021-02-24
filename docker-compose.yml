@@ -13,7 +13,7 @@ services:
       - HUGO_THEME=academic
       - HUGO_WATCH=1
       # - HUGO_DESTINATION=/output
-      - HUGO_REFRESH_TIME=60
+      # - HUGO_REFRESH_TIME=60
       # - HUGO_BASEURL=ucfacmw.org
     volumes:
       - .:/src
