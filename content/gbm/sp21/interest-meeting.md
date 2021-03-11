@@ -44,6 +44,4 @@ Please Sign In, if you attended, or are attending this event! :smile:
 
 <br>
 
-{{/*
-< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTN6v1oBAg5o4KPp28gVNQVajRZm8CLPhvq_vF45JEoR4oKprEHZCJnwdp0ho4rr6tEZ2OrsQo62pRo/embed?start=false&loop=false&delayms=3000" >
-*/}}
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vTN6v1oBAg5o4KPp28gVNQVajRZm8CLPhvq_vF45JEoR4oKprEHZCJnwdp0ho4rr6tEZ2OrsQo62pRo/embed?start=false&loop=false&delayms=3000" >}}
