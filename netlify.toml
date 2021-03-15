@@ -258,4 +258,8 @@
   status = 301
 # ===================================================================
 
+[[ redirects ]]
+  from = "/officer-nominations"
+  to = "https://forms.gle/GFZjKuE1NcCHP2WUA"
+  status = 301
 
