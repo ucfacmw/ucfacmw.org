@@ -262,4 +262,8 @@
   from = "/officer-nominations"
   to = "https://forms.gle/GFZjKuE1NcCHP2WUA"
   status = 301
-
+  
+[[ redirects ]]
+  from = "/sigact/application"
+  to = "https://docs.google.com/forms/d/e/1FAIpQLScm396fVJzJXMl-71WQwS4qZyiM96hmg6zXEGvT0W5LYJciPQ/viewform?usp=sf_link"
+  status = 301
