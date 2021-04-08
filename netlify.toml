@@ -260,7 +260,12 @@
 
 [[ redirects ]]
   from = "/officer-nominations"
-  to = "https://forms.gle/GFZjKuE1NcCHP2WUA"
+  to = "https://docs.google.com/presentation/d/1CTXugKO8M9Eh6QvoKkyPMk33Ugx6DGCb7awqPiIbbVQ/edit?usp=sharing"
+  status = 301
+  
+[[ redirects ]]
+  from = "/forms/elections"
+  to = "http://ucf.qualtrics.com/jfe/form/SV_aXVhnbpPX9lrcCa"
   status = 301
   
 [[ redirects ]]
