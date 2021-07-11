@@ -7,10 +7,10 @@ authors:
 - annabel
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Vice President --- Outreach Director (2019-2020)
+role: President --- VP (2019-2020)
 
 # Organizations/Affiliations
 organizations:
@@ -80,10 +80,10 @@ email: "ucfacmw.vp@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Officers
+- Officers 2021 - 2021
 - Officers 2019 - 2020
 
 # Add your biography below the ---
 ---
-Hello! I'm Annabel, the Vice President for ACM and ACM-W. Last year I was the Outreach Director for the club, and got to host an event with the nonprofit Coder Chicks for local girls to learn about app development and cybersecurity. I'm also the Webmaster for Habitat for Humanity at UCF.
-
+Hello! I'm Annabel, the President for ACM and ACM-W. Last year I was the Vice President for the club, and before that I was the Outreach Director. I've interned at two different financial services companies, Fidelity and PwC. 
 Fun Fact: I have dual US/UK citizenship.
