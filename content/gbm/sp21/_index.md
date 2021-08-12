@@ -8,7 +8,7 @@ authors: []
 summary: Slide decks from ACM & ACM-W GBMs for Spring 2021
 menu:
 #   gbm:
-#     name: Fall 2019
+#     name: Spring 2021
 #     parent: GBMs
   sp21:
     name: Spring 2021
