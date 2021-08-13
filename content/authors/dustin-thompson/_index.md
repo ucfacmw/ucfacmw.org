@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Brooke Bottoni
+title: Dustin Thompson
 
 # Username (this should match the folder name)
 authors:
-- brooke
+- dustin-thompson
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Sponsorship Director
+role: Projects Director
 
 # Organizations/Affiliations
 organizations:
@@ -19,16 +19,23 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rock climber who loves studying computer science and linguistics, and sometimes both at the same time.
+bio: 
 
 # Add more/change interests if you'd like
-# interests:
-# - 
+interests:
+- Piano
+- Audio Engineering
+- Jiu Jitsu
+- Video Games
+
 
 # Replace with proper information
 education:
   courses:
-  - course: BS in Computer Science
+  - course: B.S. in Computer Science
+    institution: University of Central Florida
+    year: 2021
+  - course: Minor in Mathematics
     institution: University of Central Florida
     year: 2021
 
@@ -55,23 +62,36 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.sponsorship@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=5M0F-L0AAAAJ&hl=en&oi=ao
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/brooke-bottoni/
+  link: 'mailto:ucfacmw.projects@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "ucfacmw.projects@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers
+- Officers 2020 - 2021
 - Committees
-- Sponsorships Committee
+- Projects Committee
 
 # Add your biography below the ---
 ---
-Hello! My name is Brooke and I'm a senior CS student here at UCF. I really love linguistics, and I'm interested in doing research in computational linguistics in grad school. Last summer, I was part of an Automated Narrative Generation (computer storytelling!) research team in Ilmenau, Germany, which culminated in a published paper. In my free time, I love rock climbing, traveling, playing piano, baking, and learning new languages (right now, I'm self-studying Japanese!). I'm also a huge font nerd :)
+I’m a senior at UCF that’s passionate about learning and helping others learn. I don’t come from a particularly science-y background, so my journey has been quick and bumpy. But it’s the destination that counts and so far, I haven’t been slowing down.
 
-Feel free to reach out to me with any questions about sponsoring the club or partnering with us; or, if you're a student, please let me know if you have any questions about getting involved with research or TAing!
+I’d love to encourage as many others who are going through similar things I went through to pursue their dreams with as much enthusiasm.
+
+Fun Fact: I can speak fluent Russian.

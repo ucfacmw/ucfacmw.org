@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Pablo Rivera
-
+title: Joseph Yim
+weight: 2
 # Username (this should match the folder name)
 authors:
-- pablo
+- joseph-yim
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Workshops Director
+role: Treasurer
 
 # Organizations/Affiliations
 organizations:
@@ -23,23 +23,17 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-- Video Games
-- Politics 
-- International Affairs/Culture
-- Space
-- Anime
-- Cars
+- Web Development
+- UCF Football
+- Swimming
 
 
 # Replace with proper information
 education:
-  courses:
-  - course: BS in Computer Science
-    institution: University of Central Florida
-    year: 2023
-  - course: Minor in Mathematics
-    institution: University of Central Florida
-    year: 2023
+   courses:
+   - course: BS in Computer Science
+     institution: University of Central Florida
+     year: 2023
 
 
 # Social/Academic Networking
@@ -64,7 +58,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.workshops@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ucfacmw@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -81,17 +75,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.workshops@gmail.com"
+email: "ucfacmw@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Officers
-- Committees
-- Workshops Committee
+
 # Add your biography below the ---
 ---
-
-Hello everyone! As an undergrad in Computer Science, I naturally enjoy Computers & Tech related subjects. You can always ask me for computer building advice! Easiest way to reach out is through Discord.
-
-If I don’t reply immediately-it is probably because I'm stuck at work or in a homework problem.
+Hello! My name is Joseph Yim and I am a junior at UCF, majoring in Computer Science. I am the Treasurer for ACM-W/ACM. I love watching UCF Football games, playing video games, and meeting new people! I also used to be a swimmer and love watching swim meets! Can’t wait to have an amazing year!

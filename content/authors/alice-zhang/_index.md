@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Annabel Bland
-weight: 2
+title: Alice Zhang
 # Username (this should match the folder name)
 authors:
-- annabel
+- alice-zhang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: President --- VP (2020-2021) --- Outreach Director (2019 - 2020)
+role: Mobile Development Director
 
 # Organizations/Affiliations
 organizations:
@@ -19,20 +18,25 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hi! I'm Alice, the Mobile Development Director for ACM and ACM-W.
 
 # Add more/change interests if you'd like
 interests:
-- Video games (RPGs)
-- Baking
+- iOS Development
+- Interactive Computing
+- UX Design
+- Cooking
+- Traveling
+- Eating Sweets
+
 
 
 # Replace with proper information
 education:
-   courses:
-   - course: BS in Computer Science
-     institution: University of Central Florida
-     year: 2022
+  courses:
+  - course: B.S. Computer Science
+    institution: University of Central Florida
+    year: 2023
 
 
 # Social/Academic Networking
@@ -57,16 +61,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.vp@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+  link: 'mailto:ucfacmw.dev@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/ricedrink
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ricedrink
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,16 +78,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.vp@gmail.com"
+email: "ucfacmw.dev@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers
 - Officers 2020 - 2021
-- Officers 2019 - 2020
+- Committees
+- Web & Mobile Dev. Committee
 
 # Add your biography below the ---
 ---
-Hello! I'm Annabel, the President for ACM and ACM-W. Last year I was the Vice President for the club, and before that I was the Outreach Director. I've interned at two different financial services companies, Fidelity and PwC. 
-Fun Fact: I have dual US/UK citizenship.
+Hello! My name is Alice Zhang and I am the Mobile Development Director for ACM and ACM-W. I am extremely passionate about art and you can find my work [@ricedrink](https://instagram.com/ricedrink) on Instagram. 

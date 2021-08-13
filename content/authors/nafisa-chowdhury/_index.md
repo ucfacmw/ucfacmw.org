@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Suma Marri
-
+title: Nafisa Chowdhury
+weight: 2
 # Username (this should match the folder name)
 authors:
-- suma
+- nafisa-chowdhury
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Events Director
+role: Mentorship Director
 
 # Organizations/Affiliations
 organizations:
@@ -19,27 +19,32 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Junior majoring in Information Technology. 
+bio: 
 
+# Add more/change interests if you'd like
 interests:
-- Watching Indian Movies
-- Creating New Designs
+- Human computer interaction
+- Project management
+- Going for walks on the beach 
+- Politics/International affairs 
+
 
 # Replace with proper information
 education:
-  courses: 
-  - course: Bacholors in Science in Information Technology
-    institution: University of Central Florida
-    year: 2022
-  - course: Minor in Secure Computing and Networks
-    institution: University of Central Florida
-    year: 2022
+   courses:
+   - course: BS in Information Technology
+     institution: University of Central Florida
+     year: 2023
+   - course: Minor in Cognitive Science
+     institution: University of Central Florida
+     year: 2023
 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 
 # ============== README ===========================
 
@@ -53,19 +58,20 @@ education:
 
 # ============== README ===========================
 
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.events@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/sumamarri/
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/suma_marri/?hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/smarri0612
+  link: 'mailto:ucfacmw@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,15 +79,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.events@gmail.com"
+email: "ucfacmw@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Committees
-- Events Committee
 - Officers
 
 # Add your biography below the ---
 ---
-Hey! I'm Suma and I'm currently the Events Director for ACM & ACM-W at [UCF](https://www.ucf.edu/). I have been part of ACM-W for over a year. I have made amazing friends with the same interests just by going to the GBMs in this organization. As the events director, I hope to create fun events for all of us to enjoy this semester. Have fun!!!
+Hi, I’m Nafisa! I joined ACM-W as a mentee, became a mentor and now I’m proud to be the Mentorship Director and help others through this amazing program! 

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Dustin Thompson
+title: Steven Hudson
 
 # Username (this should match the folder name)
 authors:
-- dustin
+- steven-hudson
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Projects Director
+role: Web Development Director
 
 # Organizations/Affiliations
 organizations:
@@ -19,20 +19,17 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hi! I'm Steven, the Web Development Director for ACM and ACM-W.
 
 # Add more/change interests if you'd like
 interests:
-- Piano
-- Audio Engineering
-- Jiu Jitsu
-- Video Games
-
+- Web and Mobile Dev.
+- Quantum Computing
 
 # Replace with proper information
 education:
   courses:
-  - course: B.S. in Computer Science
+  - course: BS in Computer Engineering
     institution: University of Central Florida
     year: 2021
   - course: Minor in Mathematics
@@ -62,16 +59,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.projects@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
+  link: 'mailto:ucfacmw.dev@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/steven7926
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,19 +70,19 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.projects@gmail.com"
+email: "ucfacmw.dev@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers
+- Officers 2020 - 2021
 - Committees
-- Projects Committee
+- Web & Mobile Dev. Committee
 
 # Add your biography below the ---
 ---
-I’m a senior at UCF that’s passionate about learning and helping others learn. I don’t come from a particularly science-y background, so my journey has been quick and bumpy. But it’s the destination that counts and so far, I haven’t been slowing down.
+Hi! I'm Steven, the Web Development Director for ACM and ACM-W.
 
-I’d love to encourage as many others who are going through similar things I went through to pursue their dreams with as much enthusiasm.
+I'm currently a Senior Computer Engineering major working in Orlando as a software developer at a small startup company. I am addicted to coffee and hate peas.
 
-Fun Fact: I can speak fluent Russian.
+Fun Fact: For 6 years straight now, I've been wearing this turkey hat every Thanksgiving.

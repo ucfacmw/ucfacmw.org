@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jeff Ramos
+title: Pablo Rivera
 
 # Username (this should match the folder name)
 authors:
-- jeff
+- pablo-rivera
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Webmasters Director
+role: Workshops Director
 
 # Organizations/Affiliations
 organizations:
@@ -19,20 +19,27 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-# bio:
+bio: 
 
 # Add more/change interests if you'd like
 interests:
-- Project Development
-- Full Stack Development
-- Artificial Intelligence
+- Video Games
+- Politics 
+- International Affairs/Culture
+- Space
+- Anime
+- Cars
+
 
 # Replace with proper information
 education:
   courses:
   - course: BS in Computer Science
     institution: University of Central Florida
-    year: 2022
+    year: 2023
+  - course: Minor in Mathematics
+    institution: University of Central Florida
+    year: 2023
 
 
 # Social/Academic Networking
@@ -57,7 +64,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.webmasters@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ucfacmw.workshops@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,15 +81,17 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.webmasters@gmail.com"
+email: "ucfacmw.workshops@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers
+- Officers 2020 - 2021
 - Committees
-- Webmasters Committee
-
+- Workshops Committee
 # Add your biography below the ---
 ---
-I am interested in developing my knowledge of programming and new technologies through work on projects. I am currently the Webmasters Director for ACM & ACM-W where I maintain the website and work on new features for a better user experience. I am also a developer for the Tech Committee of the Society of Hispanic Professional Engineers at the University of Central Florida where we are constantly improving our mobile application.
+
+Hello everyone! As an undergrad in Computer Science, I naturally enjoy Computers & Tech related subjects. You can always ask me for computer building advice! Easiest way to reach out is through Discord.
+
+If I don’t reply immediately-it is probably because I'm stuck at work or in a homework problem.

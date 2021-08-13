@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Annabel Bland
-weight: 2
+title: Emilia Hernandez
+
 # Username (this should match the folder name)
 authors:
-- annabel
+- emilia-hernandez
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: President --- VP (2020-2021) --- Outreach Director (2019 - 2020)
+role: ACM-W Vice President --- Marketing Director (2020 - 2021)
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +23,17 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-- Video games (RPGs)
-- Baking
+- Web/Game Design
+- Accessibility in Tech
+- Doing Creative Things(Digital + Traditional Art) 
 
 
 # Replace with proper information
 education:
-   courses:
-   - course: BS in Computer Science
-     institution: University of Central Florida
-     year: 2022
+  courses:
+  - course: BS in Digital Media, Web Design & Social Platforms
+    institution: University of Central Florida
+    year: 2023
 
 
 # Social/Academic Networking
@@ -74,16 +75,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.vp@gmail.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Officers
 - Officers 2020 - 2021
-- Officers 2019 - 2020
 
 # Add your biography below the ---
 ---
-Hello! I'm Annabel, the President for ACM and ACM-W. Last year I was the Vice President for the club, and before that I was the Outreach Director. I've interned at two different financial services companies, Fidelity and PwC. 
-Fun Fact: I have dual US/UK citizenship.
+Hi there! I’m Emilia and I am the ACM-W VP this year 💜 I hope to rally all of UCF’s women/non-binary people in tech and form a super strong unit of support, allyship, and achievement for us all. Also, I work for the Office of Student Involvement as a web designer, and I am an RA at Knightscircle so consider me your design-tech-knowledgable-older-sister-who-is-looking-out-for-you.
+Fun Fact: I pulled off getting a national award in game design for something I made in Scratch 🙀
