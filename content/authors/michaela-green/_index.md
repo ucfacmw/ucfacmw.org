@@ -4,7 +4,7 @@ title: Michaela Green
 weight: 4
 # Username (this should match the folder name)
 authors:
-- michaela
+- michaela-green
 
 # Is this the primary user of the site?
 superuser: false
@@ -83,8 +83,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers
-
+- Officers 2020 - 2021
 # Add your biography below the ---
 ---
 

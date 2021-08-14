@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: President --- VP (2020-2021) --- Outreach Director (2019 - 2020)
+role: President --- VP (2020-2021) --- Outreach Director (2019-2020)
 
 # Organizations/Affiliations
 organizations:
