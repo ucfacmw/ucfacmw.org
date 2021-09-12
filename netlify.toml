@@ -161,7 +161,7 @@
 # Zoom links
 [[ redirects ]]
   from = "/zoom/gbm"
-  to = "https://ucf.zoom.us/j/91996682446"
+  to = "https://ucf.zoom.us/j/97652605637"
   status = 301
 
 [[ redirects ]]
@@ -272,3 +272,16 @@
   from = "/sigact/application"
   to = "https://docs.google.com/forms/d/e/1FAIpQLScm396fVJzJXMl-71WQwS4qZyiM96hmg6zXEGvT0W5LYJciPQ/viewform?usp=sf_link"
   status = 301
+
+# Slides and videos
+
+[[ redirects ]]
+  from = "/fall2021-interest-slides"
+  to = "https://docs.google.com/presentation/d/1Df5q8D6itUtrsWzYCBFnsbzgh3AsACo94lNyAc-5cY8/edit?usp=sharing"
+  status = 301
+  
+[[ redirects ]]
+  from = "/fall2021-interest-video"
+  to = "https://youtu.be/1krRn0zMsrA"
+  status = 301
+  
