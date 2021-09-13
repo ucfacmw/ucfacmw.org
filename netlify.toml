@@ -285,8 +285,13 @@
   to = "https://youtu.be/1krRn0zMsrA"
   status = 301
   
- [[ redirects]]
+[[ redirects]]
   from = "/fall2021-internship-slides"
   to = "https://docs.google.com/presentation/d/1I43Z7OA8Gu85GuMqtBbVNadnQUPkNUUFIxJQ4VeeFUw/edit?usp=sharing"
+  status = 301
+  
+ [[ redirects ]]
+  from = "//fall2021-internship-video"
+  to = "https://youtu.be/RSoWBuspRuk"
   status = 301
   
