@@ -291,7 +291,7 @@
   status = 301
   
  [[ redirects ]]
-  from = "//fall2021-internship-video"
+  from = "/fall2021-internship-video"
   to = "https://youtu.be/RSoWBuspRuk"
   status = 301
   
