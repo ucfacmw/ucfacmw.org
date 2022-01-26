@@ -295,3 +295,13 @@
   to = "https://youtu.be/RSoWBuspRuk"
   status = 301
   
+  [[ redirects]]
+  from = "/spring2022-tech-review-video"
+  to = "https://youtu.be/HJ5sOQ3aqew"
+  status = 301
+  
+    [[ redirects]]
+  from = "/spring2022-tech-review-slides"
+  to = "https://docs.google.com/presentation/d/1hgVAtfvOUbh4bZMlFVGZoWligUdbzbVw1A3vHM4gDMM/edit?usp=sharing"
+  status = 301
+  
