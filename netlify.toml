@@ -161,7 +161,7 @@
 # Zoom links
 [[ redirects ]]
   from = "/zoom/gbm"
-  to = "https://ucf.zoom.us/j/91249452395"
+  to = "https://ucf.zoom.us/j/94951886748"
   status = 301
 
 [[ redirects ]]
@@ -271,6 +271,11 @@
 [[ redirects ]]
   from = "/sigact/application"
   to = "https://docs.google.com/forms/d/e/1FAIpQLScm396fVJzJXMl-71WQwS4qZyiM96hmg6zXEGvT0W5LYJciPQ/viewform?usp=sf_link"
+  status = 301
+  
+[[ redirects ]]
+  from = "student-statements"
+  to = "https://forms.gle/c9MSsFJQp54Rcu9PA"
   status = 301
 
 # Slides and videos
