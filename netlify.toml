@@ -310,3 +310,8 @@
   to = "https://docs.google.com/presentation/d/1hgVAtfvOUbh4bZMlFVGZoWligUdbzbVw1A3vHM4gDMM/edit?usp=sharing"
   status = 301
   
+  [[ redirects ]]
+  from ="/ukraine"
+  to = "https://docs.google.com/presentation/d/1WWpSXFO4nTIPznXTWuNqb3ynXZwX57E7qH2M2JepYYc/edit?usp=sharing"
+  status = 301
+  
