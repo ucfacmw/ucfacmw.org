@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Annabel Bland
-weight: 2
+title: Jeff Ramos
+
 # Username (this should match the folder name)
 authors:
-- annabel
+- jeff-ramos
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: President --- VP (2020-2021) --- Outreach Director (2019-2020)
+role: Webmasters Director
 
 # Organizations/Affiliations
 organizations:
@@ -19,20 +19,20 @@ organizations:
 - name: University of Central Florida
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+# bio:
 
 # Add more/change interests if you'd like
 interests:
-- Video games (RPGs)
-- Baking
-
+- Project Development
+- Full Stack Development
+- Artificial Intelligence
 
 # Replace with proper information
 education:
-   courses:
-   - course: BS in Computer Science
-     institution: University of Central Florida
-     year: 2022
+  courses:
+  - course: BS in Computer Science
+    institution: University of Central Florida
+    year: 2022
 
 
 # Social/Academic Networking
@@ -57,7 +57,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.vp@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ucfacmw.webmasters@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,16 +74,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.vp@gmail.com"
+email: "ucfacmw.webmasters@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers
 - Officers 2020 - 2021
-- Officers 2019 - 2020
+- Committees
+- Webmasters Committee
 
 # Add your biography below the ---
 ---
-Hello! I'm Annabel, the President for ACM and ACM-W. Last year I was the Vice President for the club, and before that I was the Outreach Director. I've interned at two different financial services companies, Fidelity and PwC. 
-Fun Fact: I have dual US/UK citizenship.
+I am interested in developing my knowledge of programming and new technologies through work on projects. I am currently the Webmasters Director for ACM & ACM-W where I maintain the website and work on new features for a better user experience. I am also a developer for the Tech Committee of the Society of Hispanic Professional Engineers at the University of Central Florida where we are constantly improving our mobile application.

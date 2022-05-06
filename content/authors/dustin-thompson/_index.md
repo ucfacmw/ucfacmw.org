@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Annabel Bland
-weight: 2
+title: Dustin Thompson
+
 # Username (this should match the folder name)
 authors:
-- annabel
+- dustin-thompson
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: President --- VP (2020-2021) --- Outreach Director (2019-2020)
+role: Projects Director
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +23,21 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-- Video games (RPGs)
-- Baking
+- Piano
+- Audio Engineering
+- Jiu Jitsu
+- Video Games
 
 
 # Replace with proper information
 education:
-   courses:
-   - course: BS in Computer Science
-     institution: University of Central Florida
-     year: 2022
+  courses:
+  - course: B.S. in Computer Science
+    institution: University of Central Florida
+    year: 2021
+  - course: Minor in Mathematics
+    institution: University of Central Florida
+    year: 2021
 
 
 # Social/Academic Networking
@@ -57,7 +62,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.vp@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ucfacmw.projects@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,16 +79,19 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.vp@gmail.com"
+email: "ucfacmw.projects@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers
 - Officers 2020 - 2021
-- Officers 2019 - 2020
+- Committees
+- Projects Committee
 
 # Add your biography below the ---
 ---
-Hello! I'm Annabel, the President for ACM and ACM-W. Last year I was the Vice President for the club, and before that I was the Outreach Director. I've interned at two different financial services companies, Fidelity and PwC. 
-Fun Fact: I have dual US/UK citizenship.
+I’m a senior at UCF that’s passionate about learning and helping others learn. I don’t come from a particularly science-y background, so my journey has been quick and bumpy. But it’s the destination that counts and so far, I haven’t been slowing down.
+
+I’d love to encourage as many others who are going through similar things I went through to pursue their dreams with as much enthusiasm.
+
+Fun Fact: I can speak fluent Russian.

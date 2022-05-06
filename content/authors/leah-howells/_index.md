@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Annabel Bland
+title: Leah Howells
 weight: 2
 # Username (this should match the folder name)
 authors:
-- annabel
+- leah-howells
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: President --- VP (2020-2021) --- Outreach Director (2019-2020)
+role: Secretary
 
 # Organizations/Affiliations
 organizations:
@@ -23,8 +23,10 @@ bio:
 
 # Add more/change interests if you'd like
 interests:
-- Video games (RPGs)
-- Baking
+- Computer Vision
+- Artificial Intelligence
+- Digital Art
+
 
 
 # Replace with proper information
@@ -32,7 +34,10 @@ education:
    courses:
    - course: BS in Computer Science
      institution: University of Central Florida
-     year: 2022
+     year: 2023
+  - course: Minor in Intelligent Robotic Systems
+     institution: University of Central Florida
+     year: 2023
 
 
 # Social/Academic Networking
@@ -57,7 +62,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.vp@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ucfacmw@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -74,16 +79,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.vp@gmail.com"
+email: "ucfacmw@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Officers
-- Officers 2020 - 2021
-- Officers 2019 - 2020
 
 # Add your biography below the ---
 ---
-Hello! I'm Annabel, the President for ACM and ACM-W. Last year I was the Vice President for the club, and before that I was the Outreach Director. I've interned at two different financial services companies, Fidelity and PwC. 
-Fun Fact: I have dual US/UK citizenship.
+Hi everyone! I’m Leah Howells and I am your Secretary this year :D I’ve been a part of ACM/ACM-W for about a year now and am super excited to be working with this year's leadership to help make the club the best it can be. I am also part of the KnightHacks dev team and am participating in UCF’s REU program in Computer Vision this summer.
+Fun fact: I used to play the trombone and I have a cat named Lily who has extra toes :)
+
