@@ -74,7 +74,7 @@ email: "ucfacmw.president@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers
+- Officers 2021 - 2022
 - Officers 2019 - 2020
 
 # Add your biography below the ---

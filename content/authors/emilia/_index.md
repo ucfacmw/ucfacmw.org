@@ -84,7 +84,7 @@ email: ""
 user_groups:
 - Committees
 - Marketing Committee
-- Officers
+- Officers 2021 - 2022
 
 # Add your biography below the ---
 ---
