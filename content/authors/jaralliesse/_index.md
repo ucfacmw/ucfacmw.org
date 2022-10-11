@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Jonathan Dieu
-weight: 1
+title: Jaralliesse Bastida
+weight: 2
 # Username (this should match the folder name)
 authors:
-- jon
+- jaralliesse
 
 # Is this the primary user of the site?
 superuser: false
 # Role/position
-role: President
+role: Secretary
 
 # Organizations/Affiliations
 organizations:
@@ -19,12 +19,14 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Computational Cognitive Science and Natural Language Processing.
+bio: My research interests include Artificial Intelligence, Cybersecurity, and Robotics
 
 interests:
-- Cloud Computing
-- Artificial Intelligence
-- Distributed Systems
+- Artificial Intelligience
+- Cybersecurity
+- Robotics
+- Art and Video Games
+- Oceans, Severe Weather, and Space
 
 
 education:
@@ -32,12 +34,15 @@ education:
   - course: BSc in Computer Science
     institution: University of Central Florida
     year: 2023
-  - course: Minors in Business Administration & Statistics
+  - course: Minor in Mathematics
     institution: University of Central Florida
     year: 2023
-  - course: IB Diploma
-    institution: Cocoa Beach Jr. Sr. High School
+  - course: Associate of Arts
+    institution: Valencia College
     year: 2019
+  - course: Scholar Diploma
+    institution: West Orange High School
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,7 +51,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.president@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ucfacmw@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://jon-dieu.nelify.app/
 - icon: github
   icon_pack: fab
   link: https://github.com/jonathanhuydieu
@@ -56,12 +64,7 @@ social:
 - icon: snapchat
   icon_pack: fab
   link: https://www.snapchat.com/add/wontonjonathan
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/jonnydieuski
-- icon: globe
-  icon_pack: fas
-  link: https://jon-dieu.nelify.app/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: file-pdf
@@ -69,7 +72,7 @@ social:
 #  link: files/Chloe_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.president@gmail.com"
+email: "ucfacmw@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +82,6 @@ user_groups:
 # Add your biography below the ---
 ---
 
-Hey there! :waving_hand: I'm Jon and I'm currently the President of ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/) :woozy:
+Hiya! :waving_hand: I'm Jaralliesse and I'm currently the Secretary of ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/) for the 2022 - 2023 academic year! :muscle::triumph:
 
-I'm currently working at [Tesla](https://www.tesla.com) as a Software Engineer Intern! :red_car:
+I have a variety of interests but I enjoy trying new things! This year I'll be participating in the NASA Student Launch :rocket:
