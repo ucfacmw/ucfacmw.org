@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jaralliesse Bastida
-weight: 2
+weight: 3
 # Username (this should match the folder name)
 authors:
 - jaralliesse
@@ -54,16 +54,16 @@ social:
   link: 'mailto:ucfacmw@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://jon-dieu.nelify.app/
+  link: https://www.linkedin.com/in/jaralliesse-bastida/
 - icon: github
   icon_pack: fab
-  link: https://github.com/jonathanhuydieu
+  link: https://github.com/Nin3s
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/jonnydieuski
+  link: https://instagram.com/ya.boi.jara
 - icon: snapchat
   icon_pack: fab
-  link: https://www.snapchat.com/add/wontonjonathan
+  link: https://www.snapchat.com/add/asianactivation
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,7 +72,7 @@ social:
 #  link: files/Chloe_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw@gmail.com"
+email: "ucfacmw.secretary@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -84,4 +84,6 @@ user_groups:
 
 Hiya! :waving_hand: I'm Jaralliesse and I'm currently the Secretary of ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/) for the 2022 - 2023 academic year! :muscle::triumph:
 
-I have a variety of interests but I enjoy trying new things! This year I'll be participating in the NASA Student Launch :rocket:
+I have a variety of interests but I enjoy trying new things! This year I'll be participating in the [NASA Student Launch](https://www.nasa.gov/stem/studentlaunch/home/index.html) :rocket: I'm also trying to learn how to crochet!
+
+Some of my hobbies include reading and playing video games, I also occasionally do commissions on the side for art.
