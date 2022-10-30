@@ -22,11 +22,11 @@ organizations:
 bio: My research interests include Artificial Intelligence, Cybersecurity, and Robotics
 
 interests:
-- Artificial Intelligience
+- AI/ML
 - Cybersecurity
 - Robotics
 - Art and Video Games
-- Oceans, Severe Weather, and Space
+- Oceans and Severe Weather
 
 
 education:
@@ -84,6 +84,6 @@ user_groups:
 
 Hiya! :waving_hand: I'm Jaralliesse and I'm currently the Secretary of ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/) for the 2022 - 2023 academic year! :muscle::triumph:
 
-I have a variety of interests but I enjoy trying new things! This year I'll be participating in the [NASA Student Launch](https://www.nasa.gov/stem/studentlaunch/home/index.html) :rocket: I'm also trying to learn how to crochet!
+I have a variety of interests but I enjoy trying new things! This year I'm trying to learn rocketry and crocheting. Some of my hobbies include reading and playing video games, I also occasionally do commissions on the side for art.
 
-Some of my hobbies include reading and playing video games, I also occasionally do commissions on the side for art.
+As of right now, I am currently working as an Undergraduate Research Assistant for this semester.
