@@ -86,7 +86,7 @@ email: ""
 user_groups:
 - Committees
 - Mentorship Committee
-- Officers
+- Officers 2021 - 2022
 
 # Add your biography below the ---
 ---

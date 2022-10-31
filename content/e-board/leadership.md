@@ -9,9 +9,8 @@ title = "Meet the Team"
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Officers", "SIGACT", "Advisors",
-  "Officers 2019 - 2020", 
-  "ACM-W Founders",]
+  user_groups = ["Officers", "Advisors", "ACM-W Founders", "SIGACT",
+  "Officers 2019 - 2020", "Officers 2021 - 2022",]
 
 [design]
   # Show user's social networking links? (true/false)

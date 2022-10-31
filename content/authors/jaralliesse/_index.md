@@ -1,42 +1,47 @@
 ---
 # Display name
-title: Chloë Geller
-weight: 1
+title: Jaralliesse Bastida
+weight: 3
 # Username (this should match the folder name)
 authors:
-- chloe
+- jaralliesse
 
 # Is this the primary user of the site?
 superuser: false
 # Role/position
-role: President --- Secretary & Mentorship Director (2019-2020)
+role: Secretary
 
 # Organizations/Affiliations
 organizations:
-- name: ACM & ACM-W
+- name: ACM
   url: https://ucfacmw.org
 - name: University of Central Florida
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Artificial Intelligence, Computational Cognitive Science and Natural Language Processing.
+bio: My research interests include Artificial Intelligence, Cybersecurity, and Robotics
 
 interests:
-- Artificial Intelligence
-- Computational Cognitive Science
-- Natural Language Processing 
+- AI/ML
+- Cybersecurity
+- Robotics
+- Art and Video Games
+- Oceans and Severe Weather
 
 
 education:
   courses:
   - course: BSc in Computer Science
     institution: University of Central Florida
-    year: 2021
-  - course: Minors in Mathematics, Intelligent Robotic Systems, and Cognitive Science
+    year: 2023
+  - course: Minor in Mathematics
     institution: University of Central Florida
-    year: 2021
-  - course: AA in Biology
-    institution: Broward College
+    year: 2023
+  - course: Associate of Arts
+    institution: Valencia College
+    year: 2019
+  - course: Scholar Diploma
+    institution: West Orange High School
     year: 2018
 
 # Social/Academic Networking
@@ -46,22 +51,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucfacmw.president@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ucfacmw.secretary@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jaralliesse-bastida/
 - icon: github
   icon_pack: fab
-  link: https://github.com/h3rmi0n3
+  link: https://github.com/Nin3s
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/chloegeller
+  link: https://instagram.com/ya.boi.jara
 - icon: snapchat
   icon_pack: fab
-  link: https://www.snapchat.com/add/itschloehey
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/chloegeller_
-# - icon: globe
-#   icon_pack: fas
-#   link: https://chloegeller.com/
+  link: https://www.snapchat.com/add/asianactivation
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: file-pdf
@@ -69,17 +72,18 @@ social:
 #  link: files/Chloe_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ucfacmw.president@gmail.com"
+email: "ucfacmw.secretary@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Officers 2021 - 2022
-- Officers 2019 - 2020
+- Officers
 
 # Add your biography below the ---
 ---
 
-Hey there! :waving_hand: I'm Chloë and I'm currently the President of ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/). Last year, I was the Secretary and the Mentorship Director for ACM-W. :relaxed:
+Hiya! :waving_hand: I'm Jaralliesse and I'm currently the Secretary of ACM & ACM-W at the [University of Central Florida](https://www.ucf.edu/) for the 2022 - 2023 academic year! :muscle::triumph:
 
-On another note, I'm also the current Vice President of [AI@UCF](https://ucfai.org)! :robot: 
+I have a variety of interests but I enjoy trying new things! This year I'm trying to learn rocketry and crocheting. Some of my hobbies include reading and playing video games, I also occasionally do commissions on the side for art.
+
+As of right now, I am currently working as an Undergraduate Research Assistant for this semester.

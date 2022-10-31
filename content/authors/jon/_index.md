@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jonathan Dieu
-weight: 0
+weight: 1
 # Username (this should match the folder name)
 authors:
 - jon
