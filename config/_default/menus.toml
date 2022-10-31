@@ -66,7 +66,7 @@
 [[ main ]]
   name = "Sign Up"
   parent = "members"
-  url = "https://ucfacmw.org/sign-up"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSfqmXeAy4b7UEjSbcihRP5QRQCY5cWoRI-PHmdODYSy-elSqw/viewform"
   weight = 50
 
 # [[main]]
