@@ -16,3 +16,4 @@ menu:
 
 date: 2022-10-20T18:00:00Z
 ---
+![ACM x Google Flyer](/img/flyers/acm_google.png)
