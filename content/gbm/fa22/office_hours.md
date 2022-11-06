@@ -4,7 +4,7 @@ weight: 4
 
 type: docs
 
-abstract: "Meet with UCF alumni who work at Google! They'll be answering questions and critiquing resumes so don't miss your chance to network with them!"
+abstract: "As we get further into the semester, we know how busy you guys can be with midterms. Come hang out with us during this week's GBM where we answer any questions pertaining to coursework, internships, and general advice!"
 
 authors:
 - jon
